@@ -1,0 +1,21 @@
+database_id,disease_name,total_annotations,post_cutoff_count,pre_cutoff_count,pct_post_cutoff,omim_number
+OMIM:618505,Stolerman neurodevelopmental syndrome,231,202,29,87.4,618505
+OMIM:615829,Xia-Gibbs syndrome,199,178,21,89.4,615829
+OMIM:256810,Mitochondrial DNA depletion syndrome 6 (hepatocerebral type),182,154,28,84.6,256810
+OMIM:256500,Netherton syndrome,146,129,17,88.4,256500
+OMIM:117360,"Spinocerebellar ataxia 29, congenital nonprogressive",135,115,20,85.2,117360
+OMIM:616900,"Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",115,95,20,82.6,616900
+OMIM:616462,"Acrofacial dysostosis, Cincinnati type",99,82,17,82.8,616462
+OMIM:610042,Pitt-Hopkins like syndrome 1,99,80,19,80.8,610042
+OMIM:142900,Holt-Oram syndrome,98,87,11,88.8,142900
+OMIM:616276,"Coenzyme Q10 deficiency, primary, 7",64,52,12,81.2,616276
+OMIM:614923,Branched-chain keto acid dehydrogenase kinase deficiency,49,46,3,93.9,614923
+OMIM:613826,Leber congenital amaurosis 6,43,36,7,83.7,613826
+OMIM:617056,"Tubulointerstitial kidney disease, autosomal dominant, 5",41,33,8,80.5,617056
+OMIM:618977,Optic atrophy 12,40,34,6,85.0,618977
+OMIM:162000,"Tubulointerstitial kidney disease, autosomal dominant, 1",33,28,5,84.8,162000
+OMIM:610370,"Diarrhea 4, malabsorptive, congenital",30,25,5,83.3,610370
+OMIM:616325,"Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency",29,25,4,86.2,616325
+OMIM:614199,"Nephrotic syndrome, type 5, with or without ocular abnormalities",26,21,5,80.8,614199
+OMIM:607398,Glucocorticoid deficiency 2,19,17,2,89.5,607398
+OMIM:277000,Mayer-Rokitansky-Kuster-Hauser syndrome,15,13,2,86.7,277000
