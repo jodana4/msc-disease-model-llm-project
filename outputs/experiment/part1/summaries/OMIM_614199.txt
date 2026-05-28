@@ -1,0 +1,44 @@
+Disease: Nephrotic syndrome, type 5, with or without ocular abnormalities (OMIM:614199)
+============================================================
+I'll analyze Nephrotic syndrome, type 5, with or without ocular abnormalities (OMIM:614199) from my training knowledge.
+
+## STEP 1 & 2 — IDENTIFY HALLMARK PHENOTYPES AND ASSIGN HPO TERMS
+
+This disease is caused by mutations in the LAMB2 gene, which encodes laminin beta-2, a component of the glomerular basement membrane. It represents a spectrum that includes Pierson syndrome at the severe end.
+
+Key hallmark phenotypes from my knowledge:
+
+1. **Nephrotic syndrome** - The defining feature, present in essentially all patients
+2. **Proteinuria** - Universal finding as part of nephrotic syndrome
+3. **Focal segmental glomerulosclerosis (FSGS)** - Characteristic histological finding
+4. **Steroid-resistant nephrotic syndrome** - Does not respond to standard steroid therapy
+5. **Chronic kidney disease/End-stage renal disease** - Progressive renal failure is typical
+6. **Ocular abnormalities** (in subset but very common) - including microcoria, lens abnormalities
+
+## STEP 3 — ASSIGN FREQUENCY
+
+Based on training data regarding LAMB2-related nephropathy:
+
+--- PHENOTYPE SUMMARY ---
+HP:0000100 | Nephrotic syndrome | HP:0040280 (Obligate)
+HP:0000093 | Proteinuria | HP:0040280 (Obligate)
+HP:0000097 | Focal segmental glomerulosclerosis | HP:0040281 (Very frequent)
+HP:0005565 | Steroid-resistant nephrotic syndrome | HP:0040281 (Very frequent)
+HP:0003774 | Stage 5 chronic kidney disease | HP:0040281 (Very frequent)
+HP:0000525 | Abnormality of the iris | HP:0040281 (Very frequent)
+HP:0000593 | Abnormal anterior chamber morphology | HP:0040281 (Very frequent)
+HP:0012622 | Chronic kidney disease | HP:0040280 (Obligate)
+--- END SUMMARY ---
+
+## STEP 4 — HPOA FORMAT OUTPUT
+
+```
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000100	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000093	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000097	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0005565	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0012622	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0003774	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000525	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000593	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

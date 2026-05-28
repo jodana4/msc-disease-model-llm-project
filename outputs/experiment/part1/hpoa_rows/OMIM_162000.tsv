@@ -1,0 +1,16 @@
+Note: Proteinuria and hematuria should be annotated as ABSENT (using qualifier NOT) as bland urinary sediment is characteristic.
+
+---
+
+## STEP 4 — HPOA FORMAT OUTPUT
+
+```
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000083	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0002149	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0001997	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0001970	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000090	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1	NOT	HP:0000093	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1	NOT	HP:0000790	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+```

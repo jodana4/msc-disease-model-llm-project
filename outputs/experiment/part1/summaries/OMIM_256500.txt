@@ -1,0 +1,44 @@
+Disease: Netherton syndrome (OMIM:256500)
+============================================================
+I'll annotate Netherton syndrome (OMIM:256500) using my training knowledge about this rare autosomal recessive skin disorder caused by mutations in the SPINK5 gene.
+
+## STEP 1 & 2: Identifying Hallmark Phenotypes with HPO Terms
+
+Netherton syndrome is characterized by a classic triad of features, along with other highly penetrant phenotypes:
+
+1. **Ichthyosis linearis circumflexa** - distinctive serpiginous, migratory skin lesions
+2. **Trichorrhexis invaginata (bamboo hair)** - pathognomonic hair shaft abnormality
+3. **Atopic diathesis** - atopic dermatitis, allergies, elevated IgE
+4. **Congenital ichthyosiform erythroderma** - present at birth
+5. **Failure to thrive** - common in infancy
+6. **Recurrent infections** - due to skin barrier defect
+7. **Hypernatremic dehydration** - in neonatal period
+8. **Sparse/brittle hair** - scalp, eyebrows, eyelashes affected
+
+## STEP 3 & 4: Output
+
+--- PHENOTYPE SUMMARY ---
+HP:0007479 | Congenital ichthyosiform erythroderma | HP:0040281 (Very frequent)
+HP:0032542 | Ichthyosis linearis circumflexa | HP:0040280 (Obligate)
+HP:0004395 | Trichorrhexis invaginata | HP:0040280 (Obligate)
+HP:0008070 | Sparse hair | HP:0040281 (Very frequent)
+HP:0001508 | Failure to thrive | HP:0040281 (Very frequent)
+HP:0003073 | Hypoalbuminemia | HP:0040281 (Very frequent)
+HP:0000988 | Skin rash | HP:0040281 (Very frequent)
+HP:0001047 | Atopic dermatitis | HP:0040281 (Very frequent)
+HP:0003212 | Increased circulating IgE level | HP:0040281 (Very frequent)
+HP:0002719 | Recurrent infections | HP:0040281 (Very frequent)
+HP:0001581 | Recurrent skin infections | HP:0040281 (Very frequent)
+HP:0000670 | Carious teeth | HP:0040281 (Very frequent)
+--- END SUMMARY ---
+
+OMIM:256500	Netherton syndrome		HP:0007479	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0032542	PMID:34138484	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0004395	PMID:34138484	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0008070	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0001508	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0003073	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0001047	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0003212	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0002719	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:256500	Netherton syndrome		HP:0001581	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]

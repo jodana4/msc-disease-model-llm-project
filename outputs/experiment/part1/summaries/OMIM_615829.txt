@@ -1,0 +1,43 @@
+Disease: Xia-Gibbs syndrome (OMIM:615829)
+============================================================
+I'll analyze Xia-Gibbs syndrome (OMIM:615829) from my training knowledge. This is a rare neurodevelopmental disorder caused by heterozygous mutations in the AHDC1 gene.
+
+## STEP 1 & 2: Identifying Hallmark Phenotypes with HPO Terms
+
+From my training knowledge, Xia-Gibbs syndrome is characterized by:
+
+1. **Global developmental delay** - present in nearly all patients
+2. **Intellectual disability** - universal feature
+3. **Speech and language delay/impairment** - extremely common, often severe
+4. **Hypotonia** - very frequent feature
+5. **Sleep disturbances/Obstructive sleep apnea** - highly characteristic
+6. **Feeding difficulties in infancy** - very common
+7. **Mild dysmorphic facial features** - present in most patients
+
+## STEP 3 & 4: Formatted Output
+
+--- PHENOTYPE SUMMARY ---
+HP:0001263 | Global developmental delay | HP:0040281 (Very frequent)
+HP:0001249 | Intellectual disability | HP:0040281 (Very frequent)
+HP:0000750 | Delayed speech and language development | HP:0040281 (Very frequent)
+HP:0001252 | Hypotonia | HP:0040281 (Very frequent)
+HP:0002870 | Obstructive sleep apnea | HP:0040281 (Very frequent)
+HP:0011968 | Feeding difficulties | HP:0040281 (Very frequent)
+HP:0001999 | Abnormal facial shape | HP:0040281 (Very frequent)
+HP:0002020 | Gastroesophageal reflux | HP:0040281 (Very frequent)
+HP:0000729 | Autistic behavior | HP:0040281 (Very frequent)
+--- END SUMMARY ---
+
+## HPOA Format Rows
+
+```
+OMIM:615829	Xia-Gibbs syndrome		HP:0001263	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001249	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000750	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001252	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0002870	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0011968	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001999	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0002020	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000729	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

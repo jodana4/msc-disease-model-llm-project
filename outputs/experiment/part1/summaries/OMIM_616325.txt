@@ -1,0 +1,49 @@
+Disease: Myasthenic syndrome, congenital 9 (OMIM:616325)
+============================================================
+I'll analyze Myasthenic syndrome, congenital 9 (CMS9), which is caused by mutations in the AGRN gene encoding agrin, a protein critical for neuromuscular junction formation and maintenance.
+
+## STEP 1 & 2: Identify Hallmark Phenotypes with HPO Terms
+
+From my training knowledge, CMS9 (AGRN-related) is characterized by:
+
+1. **Muscular weakness** - generalized myasthenic weakness
+2. **Fatigable weakness** - characteristic of all myasthenic syndromes
+3. **Ptosis** - drooping eyelids, very common
+4. **Respiratory insufficiency** - often prominent, can be life-threatening
+5. **Hypotonia** - reduced muscle tone, especially in infancy
+6. **Delayed motor development** - due to early weakness
+7. **Ophthalmoparesis** - weakness of eye muscles
+8. **Bulbar weakness/Dysphagia** - feeding difficulties
+9. **Distal muscle weakness** - characteristic of AGRN mutations
+
+## STEP 3: Assign Frequencies
+
+Based on literature reports in my training data for AGRN-related CMS.
+
+---
+
+--- PHENOTYPE SUMMARY ---
+HP:0001324 | Muscle weakness | HP:0040281 (Very frequent)
+HP:0003473 | Fatigable weakness | HP:0040281 (Very frequent)
+HP:0000508 | Ptosis | HP:0040281 (Very frequent)
+HP:0002747 | Respiratory insufficiency | HP:0040281 (Very frequent)
+HP:0001252 | Hypotonia | HP:0040281 (Very frequent)
+HP:0001270 | Motor delay | HP:0040281 (Very frequent)
+HP:0000602 | Ophthalmoplegia | HP:0040281 (Very frequent)
+HP:0002015 | Dysphagia | HP:0040281 (Very frequent)
+HP:0002460 | Distal muscle weakness | HP:0040281 (Very frequent)
+--- END SUMMARY ---
+
+## STEP 4: HPOA Format Output
+
+```
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001324	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0003473	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000508	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002747	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001252	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001270	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000602	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002015	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002460	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

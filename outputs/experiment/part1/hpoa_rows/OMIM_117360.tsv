@@ -1,0 +1,13 @@
+## HPOA Format Output:
+
+```
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001251	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001321	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001252	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001270	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001260	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002066	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001256	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0000639	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002070	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

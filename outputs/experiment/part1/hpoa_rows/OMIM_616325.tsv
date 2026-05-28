@@ -1,0 +1,13 @@
+## STEP 4: HPOA Format Output
+
+```
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001324	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0003473	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000508	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002747	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001252	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001270	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000602	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002015	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002460	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

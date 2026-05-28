@@ -1,0 +1,12 @@
+---
+
+## STEP 4: HPOA Format Output
+
+```
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008207	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008163	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008258	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0000953	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001943	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001508	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

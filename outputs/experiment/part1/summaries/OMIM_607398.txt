@@ -1,0 +1,46 @@
+Disease: Glucocorticoid deficiency 2 (OMIM:607398)
+============================================================
+I'll analyze Glucocorticoid deficiency 2 (OMIM:607398) from my training knowledge.
+
+## Background Knowledge
+
+Glucocorticoid deficiency 2 (GD2) is caused by mutations in the MRAP gene (Melanocortin 2 Receptor Accessory Protein). This is a form of Familial Glucocorticoid Deficiency (FGD), characterized by isolated glucocorticoid deficiency with preserved mineralocorticoid function. MRAP is essential for proper trafficking and function of the ACTH receptor (MC2R).
+
+---
+
+## STEP 1-3: Identifying Hallmark Phenotypes
+
+From my training knowledge, the hallmark features of GD2 (MRAP-related FGD) include:
+
+1. **Adrenal insufficiency** - universal finding
+2. **Hypocortisolemia** - defining feature
+3. **Elevated ACTH** - characteristic biochemical finding
+4. **Hyperpigmentation** - due to elevated ACTH/MSH, very common
+5. **Hypoglycemia** - common presenting symptom, especially in infancy
+6. **Failure to thrive** - frequent early manifestation
+7. **Recurrent infections** - due to cortisol deficiency
+
+---
+
+--- PHENOTYPE SUMMARY ---
+HP:0008207 | Primary adrenal insufficiency | HP:0040280 (Obligate)
+HP:0008163 | Decreased circulating cortisol level | HP:0040280 (Obligate)
+HP:0008258 | Increased circulating ACTH level | HP:0040280 (Obligate)
+HP:0000953 | Hyperpigmentation of the skin | HP:0040281 (Very frequent)
+HP:0001943 | Hypoglycemia | HP:0040281 (Very frequent)
+HP:0001508 | Failure to thrive | HP:0040281 (Very frequent)
+HP:0002960 | Autoimmunity | HP:0040282 (excluded - mineralocorticoid preserved)
+--- END SUMMARY ---
+
+---
+
+## STEP 4: HPOA Format Output
+
+```
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008207	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008163	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008258	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0000953	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001943	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001508	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

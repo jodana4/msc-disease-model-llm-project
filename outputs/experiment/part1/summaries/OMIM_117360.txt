@@ -1,0 +1,43 @@
+Disease: Spinocerebellar ataxia 29, congenital nonprogressive (OMIM:117360)
+============================================================
+I'll analyze Spinocerebellar ataxia 29, congenital nonprogressive (SCA29) from my training knowledge and identify hallmark phenotypes.
+
+## STEP 1-2: Identify Hallmark Phenotypes with HPO Terms
+
+SCA29 is caused by mutations in the ITPR1 gene and is characterized by congenital, nonprogressive cerebellar ataxia. From my knowledge, the hallmark features include:
+
+1. **Cerebellar ataxia** - core feature present in essentially all patients
+2. **Cerebellar hypoplasia/atrophy** - consistent neuroimaging finding
+3. **Hypotonia** - present from infancy in most patients
+4. **Motor delay** - delayed motor milestones very common
+5. **Dysarthria** - speech difficulties due to cerebellar dysfunction
+6. **Gait ataxia** - difficulty walking, often delayed ambulation
+7. **Intellectual disability** (mild) - cognitive impairment in majority
+
+## STEP 3-4: Assign Frequencies and Format Output
+
+--- PHENOTYPE SUMMARY ---
+HP:0001251 | Cerebellar ataxia | HP:0040280 (Obligate)
+HP:0001321 | Cerebellar hypoplasia | HP:0040281 (Very frequent)
+HP:0001252 | Hypotonia | HP:0040281 (Very frequent)
+HP:0001270 | Motor delay | HP:0040281 (Very frequent)
+HP:0001260 | Dysarthria | HP:0040281 (Very frequent)
+HP:0002066 | Gait ataxia | HP:0040280 (Obligate)
+HP:0001256 | Intellectual disability, mild | HP:0040281 (Very frequent)
+HP:0000639 | Nystagmus | HP:0040281 (Very frequent)
+HP:0002070 | Limb ataxia | HP:0040281 (Very frequent)
+--- END SUMMARY ---
+
+## HPOA Format Output:
+
+```
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001251	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001321	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001252	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001270	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001260	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002066	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001256	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0000639	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002070	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```

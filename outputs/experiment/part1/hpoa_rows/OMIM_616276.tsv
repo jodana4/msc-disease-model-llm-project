@@ -1,0 +1,14 @@
+## STEP 4: HPOA Format Output
+
+```
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001252	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001263	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001639	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0002151	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0002093	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001250	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001508	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0003128	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001298	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0003236	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
+```
