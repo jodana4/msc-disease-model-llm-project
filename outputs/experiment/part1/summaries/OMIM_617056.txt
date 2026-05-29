@@ -1,42 +1,19 @@
 Disease: Tubulointerstitial kidney disease, autosomal dominant 5 (OMIM:617056)
 ============================================================
-I'll analyze Tubulointerstitial kidney disease, autosomal dominant 5 (ADTKD5), caused by mutations in the KCNJ16 gene (also known as Kir5.1), using my training knowledge.
-
-## STEP 1 & 2: Identify Hallmark Phenotypes with HPO Terms
-
-ADTKD5 is characterized by progressive tubulointerstitial nephritis leading to chronic kidney disease. Based on my training knowledge of this rare condition:
-
-**Hallmark features (≥80% of patients):**
-1. Chronic tubulointerstitial nephritis - progressive kidney disease
-2. Chronic kidney disease/renal insufficiency
-3. Hypokalemia - due to renal potassium wasting (Kir5.1 dysfunction)
-4. Metabolic acidosis (renal tubular acidosis features)
-5. Hypomagnesemia - electrolyte disturbance from tubular dysfunction
-6. Polyuria - concentrating defect
-7. Polydipsia - secondary to polyuria
-
-## STEP 3 & 4: Output
-
 --- PHENOTYPE SUMMARY ---
-HP:0001970 | Tubulointerstitial nephritis | HP:0040281 (Very frequent)
-HP:0012622 | Chronic kidney disease | HP:0040281 (Very frequent)
-HP:0002900 | Hypokalemia | HP:0040281 (Very frequent)
-HP:0004918 | Hyperchloremic metabolic acidosis | HP:0040281 (Very frequent)
-HP:0002917 | Hypomagnesemia | HP:0040281 (Very frequent)
-HP:0000103 | Polyuria | HP:0040281 (Very frequent)
-HP:0001959 | Polydipsia | HP:0040281 (Very frequent)
-HP:0003774 | Stage 5 chronic kidney disease | HP:0040281 (Very frequent)
+HP:0000093 | Proteinuria | Very frequent
+HP:0003774 | Stage 5 chronic kidney disease | Very frequent
+HP:0000083 | Renal insufficiency | Obligate
+HP:0012622 | Chronic kidney disease | Obligate
+HP:0003259 | Elevated circulating creatinine concentration | Very frequent
+HP:0005562 | Multiple renal cysts | Very frequent
+HP:0000822 | Hypertension | Very frequent
 --- END SUMMARY ---
 
-**HPOA Format Rows:**
-
-```
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001970	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0002900	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0004918	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0002917	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000103	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001959	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003774	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000093	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003774	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000083	OMIM:617056	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	OMIM:617056	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003259	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0005562	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000822	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

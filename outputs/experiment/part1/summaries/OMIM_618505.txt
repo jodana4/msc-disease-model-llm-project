@@ -1,50 +1,17 @@
 Disease: Stolerman neurodevelopmental syndrome (OMIM:618505)
 ============================================================
-I'll analyze Stolerman neurodevelopmental syndrome (OMIM:618505) from my training knowledge.
-
-## STEP 1 & 2 — IDENTIFY HALLMARK PHENOTYPES AND ASSIGN HPO TERMS
-
-Stolerman neurodevelopmental syndrome is caused by heterozygous variants in the NSD2 gene (also known as WHSC1). From my knowledge, this is a recognizable syndrome with the following hallmark features:
-
-**Core features (present in ≥80% of patients):**
-- Global developmental delay
-- Intellectual disability
-- Speech delay/impairment
-- Hypotonia
-- Feeding difficulties in infancy
-- Distinctive facial features (including telecanthus, downslanting palpebral fissures)
-- Short stature/growth delay
-
-## STEP 3 — ASSIGN FREQUENCY
-
-Based on case series descriptions, most features are very frequent (80-99%).
-
----
-
 --- PHENOTYPE SUMMARY ---
-HP:0001263 | Global developmental delay | HP:0040281 (Very frequent)
-HP:0001249 | Intellectual disability | HP:0040281 (Very frequent)
-HP:0000750 | Delayed speech and language development | HP:0040281 (Very frequent)
-HP:0001252 | Hypotonia | HP:0040281 (Very frequent)
-HP:0008897 | Postnatal growth retardation | HP:0040281 (Very frequent)
-HP:0011968 | Feeding difficulties | HP:0040281 (Very frequent)
-HP:0000508 | Ptosis | HP:0040281 (Very frequent)
-HP:0000494 | Downslanted palpebral fissures | HP:0040281 (Very frequent)
-HP:0000506 | Telecanthus | HP:0040281 (Very frequent)
-HP:0001999 | Abnormal facial shape | HP:0040281 (Very frequent)
+HP:0001263 | Global developmental delay | Very frequent
+HP:0001249 | Intellectual disability | Very frequent
+HP:0000750 | Delayed speech and language development | Very frequent
+HP:0001252 | Hypotonia | Very frequent
+HP:0000252 | Microcephaly | Very frequent
+HP:0000316 | Hypertelorism | Very frequent
 --- END SUMMARY ---
 
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001263	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001249	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000750	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001252	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0008897	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0011968	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000508	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000494	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000506	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001999	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001263	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001249	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000750	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001252	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000252	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000316	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

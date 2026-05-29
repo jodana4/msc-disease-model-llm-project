@@ -62,7 +62,7 @@ HP:XXXXXXX | Term Name | Frequency
 Then output the tab separated HPOA rows in exact HPOA format below.
 Use PCS as the evidence code.
 Use today's date in the biocuration column in format:
-LLM:claude-opus-4[{today}]
+LLM:claude-opus-4-7[{today}]
 
 HPOA COLUMN ORDER:
 database_id\tdisease_name\tqualifier\thpo_id\treference\tevidence\tonset\tfrequency\tsex\tmodifier\taspect\tbiocuration
@@ -93,7 +93,7 @@ def main():
 
         try:
             response = client.messages.create(
-                model="claude-opus-4-5",
+                model="claude-opus-4-7",
                 max_tokens=2000,
                 messages=[{"role": "user", "content": prompt}]
             )

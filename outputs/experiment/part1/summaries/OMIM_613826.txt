@@ -1,39 +1,31 @@
 Disease: Leber congenital amaurosis 6 (OMIM:613826)
 ============================================================
-I'll analyze Leber congenital amaurosis 6 (LCA6), caused by mutations in the RPGRIP1 gene, using my training knowledge.
-
-## STEP 1-2: Identifying Hallmark Phenotypes with HPO Terms
-
-LCA6 is a severe early-onset retinal dystrophy. Based on my knowledge of this condition:
-
-1. **Severe visual impairment from birth/infancy** - characteristic of all LCA types
-2. **Nystagmus** - involuntary eye movements, very common in LCA
-3. **Absent or severely reduced electroretinogram (ERG)** - defining feature
-4. **Sluggish pupillary response** - due to retinal dysfunction
-5. **Photophobia** - light sensitivity common in LCA
-6. **Oculodigital sign (eye poking/pressing)** - Franceschetti's sign, characteristic behavior
-7. **Hyperopia** - farsightedness common in LCA6/RPGRIP1 mutations
-
-## STEP 3-4: Output
-
 --- PHENOTYPE SUMMARY ---
-HP:0000505 | Visual impairment | HP:0040281 (Very frequent)
-HP:0000639 | Nystagmus | HP:0040281 (Very frequent)
-HP:0000662 | Nyctalopia | HP:0040281 (Very frequent)
-HP:0000613 | Photophobia | HP:0040281 (Very frequent)
-HP:0001263 | Sluggish pupillary response | HP:0040281 (Very frequent)
-HP:0000540 | Hypermetropia | HP:0040281 (Very frequent)
-HP:0025336 | Oculodigital sign | HP:0040281 (Very frequent)
-HP:0000510 | Rod-cone dystrophy | HP:0040281 (Very frequent)
-HP:0008519 | Absent electroretinogram response | HP:0040281 (Very frequent)
+HP:0000556 | Retinal dystrophy | Obligate
+HP:0000618 | Blindness | Very frequent
+HP:0007737 | Congenital blindness | Very frequent
+HP:0000639 | Nystagmus | Very frequent
+HP:0000543 | Optic disc pallor | Very frequent
+HP:0007875 | Congenital nyctalopia | Very frequent
+HP:0000613 | Photophobia | Very frequent
+HP:0001138 | Abnormal electroretinogram | Obligate
+HP:0000550 | Undetectable electroretinogram | Very frequent
+HP:0001131 | Pigmentary retinopathy | Very frequent
+HP:0000486 | Strabismus | Very frequent
+HP:0001141 | Reduced visual acuity | Obligate
+HP:0001120 | Hyperopia | Very frequent
 --- END SUMMARY ---
 
-OMIM:613826	Leber congenital amaurosis 6		HP:0000505	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000639	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000662	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000613	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0007686	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000540	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0025336	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000510	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0008519	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000556	OMIM:613826	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000618	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0007737	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000639	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000543	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0007875	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000613	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001138	OMIM:613826	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000550	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001131	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000486	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001141	OMIM:613826	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001120	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

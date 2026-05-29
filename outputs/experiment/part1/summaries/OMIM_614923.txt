@@ -1,48 +1,15 @@
 Disease: Branched-chain keto acid dehydrogenase kinase deficiency (OMIM:614923)
 ============================================================
-I'll analyze Branched-chain keto acid dehydrogenase kinase deficiency (OMIM:614923) using my training knowledge.
-
-## Background
-
-This is an extremely rare autosomal recessive disorder caused by mutations in the BCKDK gene. BCKDK normally phosphorylates and inactivates the branched-chain keto acid dehydrogenase (BCKD) complex. When BCKDK is deficient, the BCKD complex is constitutively active, leading to excessive catabolism of branched-chain amino acids (BCAAs: leucine, isoleucine, valine), resulting in chronically low BCAA levels.
-
-## STEP 1 & 2 — HALLMARK PHENOTYPES WITH HPO TERMS
-
-Based on my training knowledge of reported cases:
-
-1. **Intellectual disability** - Present in virtually all cases
-2. **Autism spectrum disorder/Autistic behavior** - Highly prevalent
-3. **Reduced plasma branched-chain amino acids** - Biochemical hallmark
-4. **Global developmental delay** - Universal in childhood
-5. **Motor delay** - Consistent feature
-6. **Speech delay/Language impairment** - Very common
-
-## STEP 3 — FREQUENCY ASSIGNMENT
-
-Given the small number of reported cases and consistency of phenotypes:
-
----
-
 --- PHENOTYPE SUMMARY ---
-HP:0001249 | Intellectual disability | HP:0040281 (Very frequent)
-HP:0000729 | Autistic behavior | HP:0040281 (Very frequent)
-HP:0001263 | Global developmental delay | HP:0040281 (Very frequent)
-HP:0012758 | Neurodevelopmental delay | HP:0040281 (Very frequent)
-HP:0000750 | Delayed speech and language development | HP:0040281 (Very frequent)
-HP:0001270 | Motor delay | HP:0040281 (Very frequent)
-HP:0003348 | Decreased circulating branched-chain amino acid concentration | HP:0040280 (Obligate)
+HP:0001249 | Intellectual disability | Very frequent
+HP:0001250 | Seizure | Very frequent
+HP:0000729 | Autistic behavior | Very frequent
+HP:0001263 | Global developmental delay | Very frequent
+HP:0500153 | Decreased circulating branched chain amino acid concentration | Obligate
 --- END SUMMARY ---
 
----
-
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001249	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000729	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001263	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0012758	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000750	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001270	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0003348	OMIM:614923	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001249	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001250	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000729	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001263	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0500153	OMIM:614923	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]

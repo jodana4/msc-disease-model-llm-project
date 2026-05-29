@@ -1,44 +1,25 @@
 Disease: Diarrhea 4, malabsorptive, congenital (OMIM:610370)
 ============================================================
-I'll analyze Diarrhea 4, malabsorptive, congenital (OMIM:610370) using my training knowledge.
-
-## STEP 1-2: Identify Hallmark Phenotypes
-
-This is a rare autosomal recessive disorder caused by mutations in the NEUROG3 gene, which is essential for enteroendocrine cell development. Let me identify the hallmark features:
-
-**Key hallmarks from my knowledge:**
-- Severe congenital malabsorptive diarrhea (onset at birth)
-- Absent or severely reduced enteroendocrine cells in intestinal mucosa
-- Malabsorption leading to failure to thrive
-- Neonatal onset
-- Diabetes mellitus (develops later due to lack of pancreatic endocrine cells)
-
----
-
-## STEP 3-4: Output
-
 --- PHENOTYPE SUMMARY ---
-HP:0002014 | Diarrhea | HP:0040281 (Very frequent)
-HP:0002024 | Malabsorption | HP:0040281 (Very frequent)
-HP:0001508 | Failure to thrive | HP:0040281 (Very frequent)
-HP:0003270 | Abdominal distention | HP:0040281 (Very frequent)
-HP:0001944 | Dehydration | HP:0040281 (Very frequent)
-HP:0003119 | Abnormal circulating lipid concentration | HP:0040281 (Very frequent)
-HP:0002240 | Hepatomegaly | HP:0040281 (Very frequent)
-HP:0000857 | Neonatal insulin-dependent diabetes mellitus | HP:0040281 (Very frequent)
-HP:0003623 | Neonatal onset | HP:0040280 (Obligate)
-HP:0011968 | Feeding difficulties | HP:0040281 (Very frequent)
+HP:0002028 | Chronic diarrhea | HP:0040280
+HP:0002577 | Aganglionic megacolon | HP:0040281
+HP:0001508 | Failure to thrive | HP:0040281
+HP:0002608 | Intestinal obstruction | HP:0040281
+HP:0011473 | Gastrointestinal dysmotility | HP:0040281
+HP:0002014 | Diarrhea | HP:0040280
+HP:0001824 | Weight loss | HP:0040281
+HP:0004395 | Malabsorption | HP:0040280
+HP:0001396 | Cholestasis | HP:0040281
+HP:0002013 | Vomiting | HP:0040281
 --- END SUMMARY ---
 
-```
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002014	OMIM:610370	PCS	HP:0003623	HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002024	OMIM:610370	PCS	HP:0003623	HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001508	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0003270	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001944	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0003119	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002240	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0000857	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0003623	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0011968	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002028	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002577	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001508	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002608	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0011473	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002014	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001824	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0004395	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001396	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002013	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

@@ -1,49 +1,37 @@
 Disease: Mitochondrial DNA depletion syndrome 6 (hepatocerebral type) (OMIM:256810)
 ============================================================
-I'll analyze Mitochondrial DNA depletion syndrome 6 (hepatocerebral type) (OMIM:256810) from my training knowledge.
-
-## STEP 1 & 2: Identify Hallmark Phenotypes
-
-This is a severe autosomal recessive disorder caused by mutations in the MPV17 gene, characterized by early-onset liver failure and neurological involvement. Let me identify the hallmark features present in ≥80% of patients.
-
-## STEP 3: Assign Frequencies
-
-Based on my knowledge of this condition:
-
 --- PHENOTYPE SUMMARY ---
-HP:0001399 | Hepatic failure | HP:0040281 (Very frequent)
-HP:0002240 | Hepatomegaly | HP:0040281 (Very frequent)
-HP:0001394 | Cirrhosis | HP:0040281 (Very frequent)
-HP:0001250 | Seizures | HP:0040281 (Very frequent)
-HP:0001252 | Hypotonia | HP:0040281 (Very frequent)
-HP:0001263 | Global developmental delay | HP:0040281 (Very frequent)
-HP:0002151 | Mitochondrial DNA depletion | HP:0040280 (Obligate)
-HP:0003128 | Lactic acidosis | HP:0040281 (Very frequent)
-HP:0001943 | Hypoglycemia | HP:0040281 (Very frequent)
-HP:0003593 | Infantile onset | HP:0040281 (Very frequent)
-HP:0001396 | Cholestasis | HP:0040281 (Very frequent)
-HP:0003155 | Elevated circulating alkaline phosphatase concentration | HP:0040281 (Very frequent)
-HP:0002910 | Elevated hepatic transaminase | HP:0040281 (Very frequent)
-HP:0000952 | Jaundice | HP:0040281 (Very frequent)
-HP:0001254 | Lethargy | HP:0040281 (Very frequent)
+HP:0001508 | Failure to thrive | Very frequent
+HP:0001399 | Hepatic failure | Very frequent
+HP:0001397 | Hepatic steatosis | Very frequent
+HP:0001394 | Cirrhosis | Very frequent
+HP:0001410 | Decreased liver function | Obligate
+HP:0001263 | Global developmental delay | Very frequent
+HP:0001250 | Seizure | Very frequent
+HP:0001252 | Hypotonia | Very frequent
+HP:0001249 | Intellectual disability | Very frequent
+HP:0002910 | Elevated hepatic transaminase | Very frequent
+HP:0003128 | Lactic acidosis | Very frequent
+HP:0001978 | Hypoglycemia | Very frequent
+HP:0003073 | Hypoalbuminemia | Very frequent
+HP:0008347 | Decreased activity of mitochondrial respiratory chain | Very frequent
+HP:0003287 | Abnormality of mitochondrial metabolism | Very frequent
+HP:0002240 | Hepatomegaly | Very frequent
 --- END SUMMARY ---
 
-## STEP 4: HPOA Format Output
-
-```
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001399	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002240	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001394	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001250	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001252	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001263	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002151	OMIM:256810	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003128	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001943	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003593	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001396	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003155	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002910	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0000952	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001254	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-```
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001508	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001399	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001397	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001394	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001410	OMIM:256810	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001263	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001250	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001252	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001249	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002910	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003128	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001978	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003073	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0008347	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003287	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002240	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

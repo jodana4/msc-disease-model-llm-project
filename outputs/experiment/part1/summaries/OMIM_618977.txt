@@ -1,46 +1,25 @@
 Disease: Optic atrophy 12 (OMIM:618977)
 ============================================================
-I'll analyze Optic atrophy 12 (OMIM:618977) from my training knowledge.
-
-## STEP 1-2: Identify Hallmark Phenotypes and HPO Terms
-
-Optic atrophy 12 is caused by mutations in the ACO2 gene (aconitase 2, mitochondrial). This is a mitochondrial disorder affecting the tricarboxylic acid cycle. From my knowledge, this condition is characterized by:
-
-1. **Optic atrophy** - the defining feature, present in essentially all patients
-2. **Visual impairment** - resulting from optic nerve dysfunction
-3. **Cerebellar atrophy** - frequently reported neurological finding
-4. **Intellectual disability** - common in affected individuals
-5. **Hypotonia** - muscle weakness frequently observed
-6. **Global developmental delay** - typical presentation in childhood
-
-## STEP 3: Assign Frequency
-
-Based on case reports and series in my training data:
-- Optic atrophy: Obligate (100%)
-- Visual impairment: Very frequent (80-99%)
-- Cerebellar atrophy: Very frequent (80-99%)
-- Intellectual disability: Very frequent (80-99%)
-- Hypotonia: Very frequent (80-99%)
-- Global developmental delay: Very frequent (80-99%)
-
----
-
 --- PHENOTYPE SUMMARY ---
-HP:0000648 | Optic atrophy | HP:0040280 (Obligate)
-HP:0000505 | Visual impairment | HP:0040281 (Very frequent)
-HP:0001272 | Cerebellar atrophy | HP:0040281 (Very frequent)
-HP:0001249 | Intellectual disability | HP:0040281 (Very frequent)
-HP:0001252 | Hypotonia | HP:0040281 (Very frequent)
-HP:0001263 | Global developmental delay | HP:0040281 (Very frequent)
+HP:0000648 | Optic atrophy | Very frequent
+HP:0000543 | Optic disc pallor | Very frequent
+HP:0000505 | Visual impairment | Very frequent
+HP:0007754 | Macular dystrophy | Very frequent
+HP:0001251 | Ataxia | Very frequent
+HP:0001257 | Spasticity | Very frequent
+HP:0002080 | Intention tremor | Very frequent
+HP:0001761 | Pes cavus | Very frequent
+HP:0003487 | Babinski sign | Very frequent
+HP:0002066 | Gait ataxia | Very frequent
 --- END SUMMARY ---
 
-## STEP 4: HPOA Format Output
-
-```
-OMIM:618977	Optic atrophy 12		HP:0000648	OMIM:618977	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0000505	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001272	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001249	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001252	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001263	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:618977	Optic atrophy 12		HP:0000648	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000543	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000505	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0007754	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0001251	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0001257	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0002080	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0001761	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0003487	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0002066	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

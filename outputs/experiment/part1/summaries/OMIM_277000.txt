@@ -1,72 +1,17 @@
 Disease: Mayer-Rokitansky-Kuster-Hauser syndrome (OMIM:277000)
 ============================================================
-# Mayer-Rokitansky-Küster-Hauser Syndrome (MRKH) Phenotype Annotation
-
-## STEP 1 & 2: Identifying Hallmark Phenotypes
-
-From my training knowledge, MRKH syndrome is characterized by congenital absence of the uterus and upper vagina in 46,XX females with normal secondary sexual characteristics. Let me identify the hallmark features present in ≥80% of patients.
-
 --- PHENOTYPE SUMMARY ---
-HP:0000151 | Uterus didelphys (more accurately: Aplasia of the uterus) | HP:0040280 (Obligate)
-HP:0000151 | Aplasia of the uterus | HP:0040280 (Obligate)
-HP:0000143 | Rectovaginal fistula (more accurately: Vaginal atresia) | HP:0040280 (Obligate)
-HP:0000147 | Polycystic ovaries - NO, should be Vaginal aplasia
-HP:0000019 | Urinary hesitancy - NO
-
-Let me reconsider with correct terms:
-
---- PHENOTYPE SUMMARY ---
-HP:0000151 | Aplasia of the uterus | HP:0040280 (Obligate)
-HP:0000144 | Decreased fertility | HP:0040280 (Obligate)
-HP:0008684 | Aplasia of the vagina | HP:0040280 (Obligate)
-HP:0000786 | Primary amenorrhea | HP:0040280 (Obligate)
-HP:0000837 | Normal circulating gonadotropin level | HP:0040281 (Very frequent)
-HP:0012244 | Abnormal sex determination | - NO, they are 46,XX
-HP:0000062 | Ambiguous genitalia - NO
-HP:0001939 | Abnormality of metabolism/homeostasis - NO
-HP:0000008 | Abnormal morphology of female internal genitalia | HP:0040280 (Obligate)
-HP:0008726 | Hypoplasia of the vagina | HP:0040281 (Very frequent)
-HP:0000140 | Abnormality of the menstrual cycle | HP:0040280 (Obligate)
-HP:0010460 | Abnormality of the female genitalia | HP:0040280 (Obligate)
-HP:0000134 | Female hypogonadism - NO (ovaries are normal)
-HP:0012874 | Abnormal male reproductive system physiology - NO
-HP:0000837 | Increased circulating gonadotropin - NO
-HP:0000132 | Menorrhagia - NO
-HP:0002089 | Pulmonary hypoplasia - NO
-HP:0000028 | Cryptorchidism - NO (female)
---- END SUMMARY ---
-
-## Final Curated Summary:
-
---- PHENOTYPE SUMMARY ---
-HP:0000151 | Aplasia of the uterus | HP:0040280 (Obligate)
-HP:0008684 | Aplasia/Hypoplasia of the vagina | HP:0040280 (Obligate)
-HP:0000786 | Primary amenorrhea | HP:0040280 (Obligate)
-HP:0000012 | Urinary urgency - NO; HP:0008678 | Renal hypoplasia/aplasia | HP:0040281 (Very frequent - in Type II)
-HP:0000114 | Proximal tubulopathy - NO
-HP:0002023 | Anal atresia - NO (not hallmark)
-HP:0000142 | Abnormality of the vagina | HP:0040280 (Obligate)
-HP:0000846 | Adrenal insufficiency - NO
-HP:0001511 | Intrauterine growth retardation - NO
-HP:0001622 | Premature birth - NO
---- END SUMMARY ---
-
---- PHENOTYPE SUMMARY ---
-HP:0000151 | Aplasia of the uterus | HP:0040280
-HP:0008684 | Aplasia of the vagina | HP:0040280
+HP:0000013 | Aplasia of the uterus | HP:0040280
+HP:0000148 | Vaginal atresia | HP:0040281
 HP:0000786 | Primary amenorrhea | HP:0040280
-HP:0000008 | Abnormal morphology of female internal genitalia | HP:0040280
-HP:0012864 | Abnormal sperm morphology - NO
-HP:0000027 | Azoospermia - NO
-HP:0002750 | Delayed skeletal maturation - NO
+HP:0008726 | Aplasia of the upper vagina | HP:0040281
+HP:0000035 | Abnormality of the testis | HP:0040281
+HP:0008222 | Decreased female libido | HP:0040281
+HP:0030016 | Absent vaginal opening | HP:0040281
 --- END SUMMARY ---
 
-## STEP 4: HPOA Format Output
-
-```
-OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000151	OMIM:277000	PCS		HP:0040280		P	LLM:claude-opus-4[2026-05-28]
-OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0008684	OMIM:277000	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000786	OMIM:277000	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000008	OMIM:277000	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000837	OMIM:277000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-```
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000013	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000148	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000786	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0008726	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0030016	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]

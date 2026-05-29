@@ -1,13 +1,5 @@
-## Final Curated Summary:
-
---- PHENOTYPE SUMMARY ---
-HP:0000151 | Aplasia of the uterus | HP:0040280 (Obligate)
-HP:0008684 | Aplasia/Hypoplasia of the vagina | HP:0040280 (Obligate)
-HP:0000786 | Primary amenorrhea | HP:0040280 (Obligate)
-HP:0000012 | Urinary urgency - NO; HP:0008678 | Renal hypoplasia/aplasia | HP:0040281 (Very frequent - in Type II)
-HP:0000114 | Proximal tubulopathy - NO
-HP:0002023 | Anal atresia - NO (not hallmark)
-HP:0000142 | Abnormality of the vagina | HP:0040280 (Obligate)
-HP:0000846 | Adrenal insufficiency - NO
-HP:0001511 | Intrauterine growth retardation - NO
-HP:0001622 | Premature birth - NO
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000013	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000148	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000786	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0008726	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0030016	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]

@@ -1,13 +1,5 @@
----
-
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001249	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000729	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001263	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0012758	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000750	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001270	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0003348	OMIM:614923	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001249	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001250	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000729	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001263	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0500153	OMIM:614923	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]

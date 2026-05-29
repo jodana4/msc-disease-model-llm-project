@@ -1,46 +1,30 @@
 Disease: Holt-Oram syndrome (OMIM:142900)
 ============================================================
-I'll analyze Holt-Oram syndrome (OMIM:142900) using my training knowledge to identify hallmark phenotypes present in ≥80% of patients.
-
-## STEP 1 & 2: Identify Hallmark Phenotypes with HPO Terms
-
-Holt-Oram syndrome is caused by mutations in TBX5 and is characterized by upper limb defects and cardiac abnormalities. From my knowledge:
-
-**Upper Limb Abnormalities (virtually 100%):**
-- Abnormality of the upper limb - present in essentially all patients
-- Abnormality of the thumb - most common upper limb finding
-- Triphalangeal thumb - very frequent
-- Aplasia/hypoplasia of the radius - common finding
-- Abnormality of the carpal bones - frequently affected
-
-**Cardiac Abnormalities (~75-95%):**
-- Atrial septal defect - most common cardiac defect (~50-80%)
-- Abnormal heart morphology - present in vast majority
-
----
-
 --- PHENOTYPE SUMMARY ---
-HP:0001172 | Abnormal thumb morphology | HP:0040281 (Very frequent)
-HP:0002818 | Abnormality of the radius | HP:0040281 (Very frequent)
-HP:0001167 | Abnormal finger morphology | HP:0040281 (Very frequent)
-HP:0006496 | Aplasia/hypoplasia of the phalanges of the hand | HP:0040281 (Very frequent)
-HP:0001169 | Triphalangeal thumb | HP:0040281 (Very frequent)
-HP:0005916 | Abnormal metacarpal morphology | HP:0040281 (Very frequent)
-HP:0001631 | Atrial septal defect | HP:0040281 (Very frequent)
-HP:0002564 | Malformation of the heart and great vessels | HP:0040281 (Very frequent)
-HP:0000006 | Autosomal dominant inheritance | HP:0040280 (Obligate)
+HP:0001631 | Atrial septal defect | Very frequent
+HP:0001156 | Brachydactyly | Very frequent
+HP:0009777 | Absent thenar musculature | Very frequent
+HP:0009623 | Proximal placement of thumb | Very frequent
+HP:0001167 | Abnormality of the hand | Obligate
+HP:0001627 | Abnormal heart morphology | Very frequent
+HP:0009778 | Short thumb | Very frequent
+HP:0001643 | Patent ductus arteriosus | Very frequent
+HP:0011968 | Feeding difficulties | Very frequent
+HP:0001629 | Ventricular septal defect | Very frequent
+HP:0011675 | Arrhythmia | Very frequent
+HP:0012722 | Heart block | Very frequent
+HP:0003022 | Hypoplasia of the radius | Very frequent
 --- END SUMMARY ---
 
-## STEP 4: HPOA Format Output
-
-```
-OMIM:142900	Holt-Oram syndrome		HP:0001172	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0002818	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0001167	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0006496	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0001169	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0005916	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0001631	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0002564	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0000006	OMIM:142900	PCS		HP:0040280			I	LLM:claude-opus-4[2026-05-28]
-```
+OMIM:142900	Holt-Oram syndrome		HP:0001631	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001156	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0009777	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0009623	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001167	OMIM:142900	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001627	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0009778	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001643	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001629	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0011675	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0012722	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0003022	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

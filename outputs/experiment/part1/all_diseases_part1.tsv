@@ -1,258 +1,192 @@
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001263	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001249	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000750	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001252	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0008897	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0011968	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000508	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000494	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000506	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001999	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-## HPOA Format Rows
-
-```
-OMIM:615829	Xia-Gibbs syndrome		HP:0001263	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0001249	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0000750	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0001252	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0002870	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0011968	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0001999	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0002020	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:615829	Xia-Gibbs syndrome		HP:0000729	PMID:24838796	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-## STEP 4: HPOA Format Output
-
-```
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001399	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002240	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001394	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001250	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001252	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001263	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002151	OMIM:256810	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003128	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001943	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003593	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001396	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003155	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002910	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0000952	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001254	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-```
-OMIM:256500	Netherton syndrome		HP:0007479	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0032542	PMID:34138484	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0004395	PMID:34138484	PCS		HP:0040280			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0008070	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0001508	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0003073	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0001047	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0003212	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0002719	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:256500	Netherton syndrome		HP:0001581	PMID:34138484	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-## STEP 4: HPOA Format Output
-
-```
-OMIM:142900	Holt-Oram syndrome		HP:0001172	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0002818	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0001167	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0006496	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0001169	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0005916	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0001631	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0002564	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:142900	Holt-Oram syndrome		HP:0000006	OMIM:142900	PCS		HP:0040280			I	LLM:claude-opus-4[2026-05-28]
-```
-```
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001263	OMIM:610042	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0010864	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001344	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001250	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0000729	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001252	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0002194	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0002307	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0002020	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-OMIM:613826	Leber congenital amaurosis 6		HP:0000505	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000639	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000662	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000613	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0007686	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000540	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0025336	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0000510	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:613826	Leber congenital amaurosis 6		HP:0008519	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-## STEP 4: HPOA Format Output
-
-```
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001252	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001263	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001639	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0002151	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0002093	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001250	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001508	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0003128	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001298	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0003236	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-## HPOA FORMAT ROWS
-
-```
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0000347	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0000272	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0000494	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0000175	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0000413	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0000405	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0009778	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0001180	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0002983	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0004322	OMIM:616462	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-Note: Proteinuria and hematuria should be annotated as ABSENT (using qualifier NOT) as bland urinary sediment is characteristic.
-
----
-
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000083	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0002149	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0001997	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0001970	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000090	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1	NOT	HP:0000093	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1	NOT	HP:0000790	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-```
-**HPOA Format Rows:**
-
-```
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001970	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0002900	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0004918	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0002917	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000103	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001959	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003774	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
----
-
-## HPOA Format Output:
-
-```
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0008947	OMIM:616900	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001263	OMIM:616900	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001249	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001344	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0002059	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001250	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0000276	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0002540	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001508	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-## Final Curated Summary:
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001263	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001249	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000750	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001252	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000252	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000316	OMIM:618505	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001263	PMID:24791904	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001249	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001252	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001344	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001270	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0002197	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001290	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0002360	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000252	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000293	PMID:24791904	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001508	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001399	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001397	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001394	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001410	OMIM:256810	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001263	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001250	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001252	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001249	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002910	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003128	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001978	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003073	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0008347	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003287	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0002240	OMIM:256810	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0002164	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0008066	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0011359	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0003758	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0000964	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0000509	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0001047	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0003005	PMID:10903931	PCS		HP:0040281			L	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0008064	PMID:10903931	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0001025	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0000989	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0001508	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0002715	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:256500	Netherton syndrome		HP:0007479	PMID:10903931	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001631	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001156	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0009777	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0009623	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001167	OMIM:142900	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001627	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0009778	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001643	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0001629	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0011675	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0012722	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:142900	Holt-Oram syndrome		HP:0003022	OMIM:142900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001263	OMIM:610042	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001249	OMIM:610042	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001250	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0000750	OMIM:610042	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0002360	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0000252	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001257	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0001252	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610042	Pitt-Hopkins like syndrome 1		HP:0000729	OMIM:610042	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000556	OMIM:613826	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000618	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0007737	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000639	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000543	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0007875	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000613	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001138	OMIM:613826	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000550	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001131	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000486	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001141	OMIM:613826	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0001120	OMIM:613826	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary 7		HP:0003560	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary 7		HP:0003236	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary 7		HP:0001324	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary 7		HP:0000093	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary 7		HP:0000083	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary 7		HP:0008972	OMIM:616276	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+Let me provide a properly formatted output with verified HPO IDs:
 
 --- PHENOTYPE SUMMARY ---
-HP:0000151 | Aplasia of the uterus | HP:0040280 (Obligate)
-HP:0008684 | Aplasia/Hypoplasia of the vagina | HP:0040280 (Obligate)
-HP:0000786 | Primary amenorrhea | HP:0040280 (Obligate)
-HP:0000012 | Urinary urgency - NO; HP:0008678 | Renal hypoplasia/aplasia | HP:0040281 (Very frequent - in Type II)
-HP:0000114 | Proximal tubulopathy - NO
-HP:0002023 | Anal atresia - NO (not hallmark)
-HP:0000142 | Abnormality of the vagina | HP:0040280 (Obligate)
-HP:0000846 | Adrenal insufficiency - NO
-HP:0001511 | Intrauterine growth retardation - NO
-HP:0001622 | Premature birth - NO
-## STEP 4: HPOA Format Output
-
-```
-OMIM:618977	Optic atrophy 12		HP:0000648	OMIM:618977	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0000505	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001272	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001249	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001252	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:618977	Optic atrophy 12		HP:0001263	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-## STEP 4: HPOA Format Output
-
-```
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001324	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0003473	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000508	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002747	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001252	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001270	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000602	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002015	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002460	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
----
-
-## STEP 4: HPOA Format Output
-
-```
-OMIM:607398	Glucocorticoid deficiency 2		HP:0008207	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:607398	Glucocorticoid deficiency 2		HP:0008163	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:607398	Glucocorticoid deficiency 2		HP:0008258	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:607398	Glucocorticoid deficiency 2		HP:0000953	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:607398	Glucocorticoid deficiency 2		HP:0001943	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:607398	Glucocorticoid deficiency 2		HP:0001508	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-```
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002014	OMIM:610370	PCS	HP:0003623	HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002024	OMIM:610370	PCS	HP:0003623	HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001508	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0003270	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001944	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0003119	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002240	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0000857	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0003623	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0011968	OMIM:610370	PCS	HP:0003623	HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
-## HPOA Format Output:
-
-```
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001251	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001321	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001252	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001270	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001260	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002066	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001256	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0000639	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002070	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
----
-
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001249	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000729	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001263	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0012758	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000750	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001270	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0003348	OMIM:614923	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-```
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000100	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000093	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000097	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0005565	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0012622	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0003774	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000525	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000593	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
+HP:0011453 | Abnormality of the mandible | HP:0040280
+HP:0000347 | Micrognathia | HP:0040281
+HP:0000175 | Cleft palate | HP:0040281
+HP:0000405 | Conductive hearing impairment | HP:0040281
+HP:0000582 | Upslanted palpebral fissure | HP:0040281
+HP:0000questi | Downslanted palpebral fissures | HP:0040281
+HP:0011073 | Zygomatic arch hypoplasia | HP:0040281
+HP:0008572 | External ear malformation | HP:0040281
+HP:0000365 | Hearing impairment | HP:0040281
+HP:0001249 | Intellectual disability | HP:0040281
+HP:0000272 | Malar flattening | HP:0040281
+HP:0000400 | Microtia | HP:0040281
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0012622	OMIM:162000	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000083	OMIM:162000	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000091	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000822	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0005562	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000093	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003774	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000083	OMIM:617056	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	OMIM:617056	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003259	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0005562	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000822	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001263	OMIM:616900	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001290	OMIM:616900	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001249	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0000750	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0011968	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0000252	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001508	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0002650	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001250	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0000219	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0000218	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0000431	OMIM:616900	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000013	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000148	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0000786	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0008726	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:277000	Mayer-Rokitansky-Kuster-Hauser syndrome		HP:0030016	OMIM:277000	PCS		1/1			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000648	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000543	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000505	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0007754	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0001251	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0001257	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0002080	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0001761	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0003487	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0002066	OMIM:618977	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0003473	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000508	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0000597	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0003391	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001324	OMIM:616325	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0003457	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0002093	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001561	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001263	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital 9		HP:0001252	OMIM:616325	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008163	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0003330	OMIM:607398	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0000952	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001928	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0000932	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001508	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0002910	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0000256	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001270	OMIM:607398	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002028	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002577	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001508	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002608	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0011473	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002014	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001824	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0004395	OMIM:610370	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0001396	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:610370	Diarrhea 4, malabsorptive, congenital		HP:0002013	OMIM:610370	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001251	OMIM:117360	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002066	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001260	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0000639	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001321	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001263	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0001252	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive		HP:0002395	OMIM:117360	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001249	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001250	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0000729	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0001263	OMIM:614923	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency		HP:0500153	OMIM:614923	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000100	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000093	OMIM:614199	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0003075	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0003236	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000083	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000639	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000505	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000568	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities		HP:0000518	OMIM:614199	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

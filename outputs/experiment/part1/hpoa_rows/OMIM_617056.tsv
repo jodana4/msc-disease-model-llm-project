@@ -1,12 +1,7 @@
-**HPOA Format Rows:**
-
-```
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001970	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0002900	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0004918	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0002917	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000103	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001959	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003774	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4[2025-05-28]
-```
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000093	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003774	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000083	OMIM:617056	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	OMIM:617056	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0003259	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0005562	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000822	OMIM:617056	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]

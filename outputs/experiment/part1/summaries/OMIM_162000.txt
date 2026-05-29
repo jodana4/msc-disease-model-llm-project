@@ -1,50 +1,20 @@
 Disease: Tubulointerstitial kidney disease, autosomal dominant 1 (OMIM:162000)
 ============================================================
-I'll analyze Tubulointerstitial kidney disease, autosomal dominant 1 (ADTKD-UMOD), caused by mutations in the UMOD gene encoding uromodulin.
-
-## STEP 1 & 2 — IDENTIFYING HALLMARK PHENOTYPES
-
-Based on my training knowledge of ADTKD-UMOD (formerly known as familial juvenile hyperuricemic nephropathy type 1 and medullary cystic kidney disease type 2):
-
-**Hallmark features (≥80% of patients):**
-1. Progressive chronic kidney disease leading to end-stage renal disease
-2. Hyperuricemia (elevated uric acid, often before kidney function decline)
-3. Gout (secondary to hyperuricemia)
-4. Reduced urinary uromodulin excretion
-5. Tubulointerstitial fibrosis on biopsy
-6. Bland urinary sediment (absence of significant proteinuria/hematuria)
-
-## STEP 3 — FREQUENCY ASSIGNMENT
-
-Assigning HP:0040281 (Very frequent, 80-99%) for most features.
-
----
-
 --- PHENOTYPE SUMMARY ---
-HP:0003774 | Stage 5 chronic kidney disease | HP:0040281
-HP:0000083 | Renal insufficiency | HP:0040281
-HP:0002149 | Hyperuricemia | HP:0040281
-HP:0001997 | Gout | HP:0040281
-HP:0001970 | Tubulointerstitial nephritis | HP:0040281
-HP:0000093 | Proteinuria | HP:0040281
-HP:0003774 | Stage 5 chronic kidney disease | HP:0040281
-HP:0000112 | Nephropathy | HP:0040281
-HP:0000790 | Hematuria | HP:0040281
+HP:0000093 | Proteinuria | Very frequent
+HP:0003774 | Stage 5 chronic kidney disease | Very frequent
+HP:0000083 | Renal insufficiency | Obligate
+HP:0012622 | Chronic kidney disease | Obligate
+HP:0000822 | Hypertension | Very frequent
+HP:0005562 | Multiple renal cysts | Very frequent
+HP:0000091 | Tubulointerstitial nephritis | Very frequent
+HP:0000097 | Glomerulosclerosis | Very frequent
+HP:0001561 | Polyhydramnios | Very frequent
 --- END SUMMARY ---
 
-Note: Proteinuria and hematuria should be annotated as ABSENT (using qualifier NOT) as bland urinary sediment is characteristic.
-
----
-
-## STEP 4 — HPOA FORMAT OUTPUT
-
-```
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000083	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0002149	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0001997	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0001970	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000090	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1	NOT	HP:0000093	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1	NOT	HP:0000790	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4[2026-05-28]
-```
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0012622	OMIM:162000	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000083	OMIM:162000	PCS		HP:0040280			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000091	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0000822	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0005562	OMIM:162000	PCS		HP:0040281			P	LLM:claude-opus-4-7[2026-05-29]
