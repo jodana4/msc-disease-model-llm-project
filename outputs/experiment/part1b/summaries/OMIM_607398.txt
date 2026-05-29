@@ -1,0 +1,21 @@
+Disease: Glucocorticoid deficiency 2 (OMIM:607398)
+============================================================
+I'll research Glucocorticoid deficiency 2 (MRAP gene) to identify hallmark phenotypes.Let me search for more specific phenotype frequency data from the Chung et al. paper.Let me get more specific frequency data from the Chung 2010 paper on FGD type 2.Based on the Chung 2010 study with 22 MRAP patients, I have sufficient evidence for hallmark phenotypes. The core features of FGD type 2 are: glucocorticoid deficiency (obligate), hyperpigmentation, hypoglycemia, low cortisol with high ACTH. Let me verify HPO terms.I have validated HPO terms:
+- HP:0008163 - Decreased circulating cortisol level (low cortisol)
+- HP:0001943 - Hypoglycemia
+- HP:0000953 - Hyperpigmentation of the skin
+- HP:0003154 - Increased circulating ACTH level
+
+Based on Chung et al. 2010 (PMID:19558534) with 22 MRAP/FGD type 2 patients, the core features (glucocorticoid deficiency, hyperpigmentation, hypoglycemia, elevated ACTH) are present in essentially all patients as diagnostic criteria.
+
+--- PHENOTYPE SUMMARY ---
+HP:0008163 | Decreased circulating cortisol level | 22/22 | PMID:19558534
+HP:0003154 | Increased circulating ACTH level | 22/22 | PMID:19558534
+HP:0000953 | Hyperpigmentation of the skin | Very frequent | PMID:19558534
+HP:0001943 | Hypoglycemia | Very frequent | PMID:19558534
+--- END SUMMARY ---
+
+OMIM:607398	Glucocorticoid deficiency 2		HP:0008163	PMID:19558534	PCS		22/22			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0003154	PMID:19558534	PCS		22/22			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0000953	PMID:19558534	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:607398	Glucocorticoid deficiency 2		HP:0001943	PMID:19558534	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]

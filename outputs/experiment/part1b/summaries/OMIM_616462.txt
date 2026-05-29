@@ -1,0 +1,11 @@
+Disease: Acrofacial dysostosis, Cincinnati type (OMIM:616462)
+============================================================
+I'll research this rare disease and generate hallmark phenotype annotations.Let me get more specific phenotype frequency data from the Smallwood 2023 paper.I now have clear data. From Smallwood 2023 (PMID:37075751): craniofacial anomalies were present in 18/18 (100%), and abnormal neurodevelopment in 14/18 (78%) - below the 80% threshold. Only craniofacial anomalies meet the ≥80% criterion.
+
+Let me confirm the HPO term for the broad "craniofacial anomalies" finding. The most appropriate HPO term would be HP:0001999 (Abnormal facial shape) or HP:0000271 (Abnormality of the face). Given the description includes craniofacial (skull + face), HP:0000929 (Abnormality of the skull) and HP:0000271 are options. Best fit for "craniofacial anomalies" in HPO is HP:0001999 "Abnormal facial shape" but that's specifically face. Let me search OLS for the best HPO term.I'll use HP:0001999 (Abnormal facial shape) which is the standard HPO term for facial dysmorphism. This is a real, validated HPO term. The Smallwood study reported craniofacial anomalies in 18/18 patients.
+
+--- PHENOTYPE SUMMARY ---
+HP:0001999 | Abnormal facial shape | 18/18 | PMID:37075751
+--- END SUMMARY ---
+
+OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0001999	PMID:37075751	PCS		18/18			P	LLM:claude-opus-4-7-agentic[2026-05-29]

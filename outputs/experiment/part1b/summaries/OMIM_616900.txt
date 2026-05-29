@@ -1,0 +1,24 @@
+Disease: Hypotonia, infantile, with psychomotor retardation and characteristic facies 3 (OMIM:616900)
+============================================================
+I'll research this rare disease and generate hallmark phenotype annotations.Let me search for more specific phenotype frequencies from the Bhoj 2016 cohort study.I have good data from the Zapata-Aldana 2019 review (PMID 30103036) which provides clear cohort-level frequencies. Let me get the PMID for the Bhoj 2016 paper and search for additional facial features frequency.I have strong cohort data. From Zapata-Aldana 2019 (PMID 30103036):
+- Global developmental delay: 100% (32/32)
+- Severe hypotonia: 88% (29/33)
+
+These are the two clear hallmark phenotypes meeting the 80% threshold. Other features like seizures (69%) don't meet threshold.
+
+The HPO terms I need to validate:
+- Global developmental delay: HP:0001263
+- Hypotonia / Generalized hypotonia: HP:0001290 (generalized) or HP:0001252 (hypotonia)
+- Intellectual disability: HP:0001249
+
+These are well-established standard HPO terms. The Bhoj 2016 paper states all 13/13 patients had intellectual disability and hypotonia as core phenotype.
+
+--- PHENOTYPE SUMMARY ---
+HP:0001263 | Global developmental delay | 32/32 | PMID:30103036
+HP:0001290 | Generalized hypotonia | 29/33 | PMID:30103036
+HP:0001249 | Intellectual disability | 13/13 | PMID:27040691
+--- END SUMMARY ---
+
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001263	PMID:30103036	PCS		32/32			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001290	PMID:30103036	PCS		29/33			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001249	PMID:27040691	PCS		13/13			P	LLM:claude-opus-4-7-agentic[2026-05-29]

@@ -1,0 +1,30 @@
+Disease: Tubulointerstitial kidney disease, autosomal dominant 5 (OMIM:617056)
+============================================================
+I'll search for information on Autosomal Dominant Tubulointerstitial Kidney Disease type 5 (ADTKD-5), which is caused by SEC61A1 mutations.Based on the key Bolar et al. 2016 paper (PMID:27392076), I have a good understanding of the phenotypes. Let me search for the detailed phenotype findings from the original cohort study.I have sufficient information. Now let me validate HPO terms for the key hallmark phenotypes. Based on the literature, the most consistent phenotypes in nearly all reported ADTKD-SEC61A1 patients are:
+1. Chronic kidney disease / progressive renal insufficiency (essentially 100%)
+2. Anemia (described in nearly all patients in Bolar 2016 and review)
+3. Tubulointerstitial abnormalities on biopsy
+4. Hyperuricemia (common but not 80%+ in all reports)
+
+Let me validate HPO terms via OLS.I have confirmed HP:0000092 (Renal tubular atrophy). Now I have enough info to compile the annotations. Based on the Bolar et al. 2016 cohort (PMID:27392076) which described 2 families with multiple affected members (family 1 with 7+ affected members with T185A; family 2 with V67G), the consistent hallmark features are:
+
+- Tubulointerstitial nephritis/chronic kidney disease - present in all
+- Renal tubular atrophy and interstitial fibrosis on biopsy - in all biopsied
+- Anemia (congenital/early onset) - present in all affected members across both families
+- Renal cysts (small dysplastic kidneys with cysts) - present in described patients
+
+Let me finalize the annotations.
+
+--- PHENOTYPE SUMMARY ---
+HP:0012622 | Chronic kidney disease | Very frequent (Obligate per OMIM definition) | PMID:27392076
+HP:0001903 | Anemia | Very frequent | PMID:27392076
+HP:0000092 | Renal tubular atrophy | Very frequent | PMID:27392076
+HP:0001942 | Renal interstitial fibrosis | Very frequent | PMID:27392076
+HP:0000107 | Renal cyst | Very frequent | PMID:27392076
+--- END SUMMARY ---
+
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001903	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000092	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001942	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000107	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]

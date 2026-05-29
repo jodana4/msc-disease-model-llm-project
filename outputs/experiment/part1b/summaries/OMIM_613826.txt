@@ -1,0 +1,25 @@
+Disease: Leber congenital amaurosis 6 (OMIM:613826)
+============================================================
+I'll search for published literature on Leber congenital amaurosis 6 (LCA6) to identify hallmark phenotypes.Let me get more details from the LCA6 specific paper.I have strong evidence now. Key findings:
+- From the Chinese cohort (PMID 34796026, n=5): All 5 had congenital night blindness, nystagmus, severe visual impairment - 5/5 = 100%
+- From the 228-patient review (PMC8551679): hyperopia present in 47/53 (89%) of refraction data; severely reduced/non-recordable ERG is consistent
+
+Let me validate HPO terms via OLS.HPO terms validated: HP:0000639 (Nystagmus), HP:0000662 (Nyctalopia/Night blindness), HP:0000540 (Hypermetropia). Now let me also verify the ERG term and severe visual impairment term.I have sufficient validated HPO terms. Let me compile my final annotation based on:
+
+**Primary source PMID 34796026** (Mao et al. Chinese cohort, n=5): All 5/5 patients had congenital night blindness, nystagmus, severe visual impairment. ERG was severely abnormal in all.
+
+**Supporting source PMID 34552563/PMC8551679** (Tornqvist et al review of 228 patients): hyperopia in 47/53 (89%), but this is across mixed RPGRIP1 phenotypes (LCA, CORD13, RP).
+
+Given the LCA6-specific cohort (PMID 34796026) had all 5/5 patients with the core features (night blindness, nystagmus, severe visual impairment), I'll use these. Reduced ERG was also seen in all 5/5.
+
+--- PHENOTYPE SUMMARY ---
+HP:0000662 | Nyctalopia | 5/5 | PMID:34796026
+HP:0000639 | Nystagmus | 5/5 | PMID:34796026
+HP:0000505 | Visual impairment | 5/5 | PMID:34796026
+HP:0000512 | Abnormal electroretinogram | 5/5 | PMID:34796026
+--- END SUMMARY ---
+
+OMIM:613826	Leber congenital amaurosis 6		HP:0000662	PMID:34796026	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000639	PMID:34796026	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000505	PMID:34796026	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:613826	Leber congenital amaurosis 6		HP:0000512	PMID:34796026	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]

@@ -1,0 +1,45 @@
+Disease: Xia-Gibbs syndrome (OMIM:615829)
+============================================================
+I'll research Xia-Gibbs syndrome to identify hallmark phenotypes from published cohort studies.Let me get more specific frequency data from the Jiang et al. phenotypic spectrum paper and others.I have strong frequency data now. Let me compile the hallmark phenotypes (≥80%):
+
+From Brazilian cohort (PMID:40501103, n=16):
+- ID 100%, Hypotonia 100%, Facial dysmorphisms 100%, Speech delay 93.7%, ASD 86.7%
+
+From Jiang 2018 (PMID:29696803, n=20):
+- Hypotonia 18/20 (90%)
+- Delayed walking 16/20 (80%)
+
+Let me verify the HPO term IDs I plan to use.I have confirmed valid HPO terms. Let me compile the final output.
+
+Confirmed HPO terms:
+- HP:0001249 - Intellectual disability
+- HP:0001290 - Generalized hypotonia (or HP:0001252 - Hypotonia)
+- HP:0000750 - Delayed speech and language development
+- HP:0000729 - Autistic behavior
+- HP:0001263 - Global developmental delay
+- HP:0001508 - Failure to thrive — not relevant
+- For facial dysmorphism: HP:0001999 - Abnormal facial shape
+
+Hallmark phenotypes (≥80%):
+- ID 16/16 (100%) - PMID:40501103
+- Hypotonia 16/16 (100%) - PMID:40501103; also 18/20 (90%) PMID:29696803
+- Facial dysmorphism 16/16 (100%) - PMID:40501103
+- Speech impairment 15/16 (93.7%) - PMID:40501103
+- ASD 13/15 (86.7%) - PMID:40501103
+- Motor developmental delay 16/16 (100%) - PMID:40501103
+
+--- PHENOTYPE SUMMARY ---
+HP:0001249 | Intellectual disability | 16/16 (100%) | PMID:40501103
+HP:0001290 | Generalized hypotonia | 16/16 (100%) | PMID:40501103
+HP:0001999 | Abnormal facial shape | 16/16 (100%) | PMID:40501103
+HP:0001263 | Global developmental delay | 16/16 (100%) | PMID:40501103
+HP:0000750 | Delayed speech and language development | 15/16 (93.7%) | PMID:40501103
+HP:0000729 | Autistic behavior | 13/15 (86.7%) | PMID:40501103
+--- END SUMMARY ---
+
+OMIM:615829	Xia-Gibbs syndrome		HP:0001249	PMID:40501103	PCS		16/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001290	PMID:40501103	PCS		16/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001999	PMID:40501103	PCS		16/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001263	PMID:40501103	PCS		16/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000750	PMID:40501103	PCS		15/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000729	PMID:40501103	PCS		13/15			P	LLM:claude-opus-4-7-agentic[2026-05-29]

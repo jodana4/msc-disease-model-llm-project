@@ -1,0 +1,29 @@
+Disease: Optic atrophy 12 (OMIM:618977)
+============================================================
+I'll research Optic atrophy 12 (OPA12) to find hallmark phenotypes.Let me search for the Caporali 2020 paper for specific frequency data.Let me search for the specific Caporali paper PMID and frequency details.I have sufficient information. The Caporali 2020 paper PMID is 32219868. Key hallmark phenotypes for OPA12 based on GeneReviews and Caporali 2020: optic atrophy, optic disc pallor, decreased visual acuity, impaired color vision, photophobia, and reduced RNFL on OCT. These are consistently described as cardinal features in essentially all patients.
+
+Let me verify HPO term IDs for these phenotypes.I have enough validated HPO terms. Based on Caporali 2020 (PMID: 32219868) studying 12 cases across 10 families, the cardinal/hallmark features that are present in essentially all OPA12 patients are:
+- Optic atrophy (HP:0000648)
+- Optic disc pallor (HP:0000543)
+- Reduced visual acuity (HP:0007663)
+- Photophobia (HP:0000613)
+- Abnormality of color vision / Dyschromatopsia (HP:0007641)
+- Reduced/thinned retinal nerve fiber layer (HP:0007964)
+
+Let me verify HP:0007964 for RNFL thinning.Based on my research, I have sufficient information to generate the HPOA annotations. Caporali et al. 2020 (PMID: 32219868) studied 12 cases across 10 OPA12 families. The hallmark features—optic atrophy, optic disc pallor, decreased visual acuity, impaired color vision, photophobia, and reduced RNFL thickness—are described as universal cardinal features of OPA12.
+
+--- PHENOTYPE SUMMARY ---
+HP:0000648 | Optic atrophy | Very frequent (>80%) | PMID:32219868
+HP:0000543 | Optic disc pallor | Very frequent (>80%) | PMID:32219868
+HP:0007663 | Reduced visual acuity | Very frequent (>80%) | PMID:32219868
+HP:0000613 | Photophobia | Very frequent (>80%) | PMID:32219868
+HP:0007641 | Dyschromatopsia | Very frequent (>80%) | PMID:32219868
+HP:0007964 | Abnormality of the retinal nerve fiber layer | Very frequent (>80%) | PMID:32219868
+--- END SUMMARY ---
+
+OMIM:618977	Optic atrophy 12		HP:0000648	PMID:32219868	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000543	PMID:32219868	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0007663	PMID:32219868	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0000613	PMID:32219868	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0007641	PMID:32219868	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:618977	Optic atrophy 12		HP:0007964	PMID:32219868	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]

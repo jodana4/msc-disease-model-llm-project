@@ -1,0 +1,29 @@
+Disease: Coenzyme Q10 deficiency, primary 7 (OMIM:616276)
+============================================================
+I'll research this rare disease and generate hallmark phenotype annotations.I have good data from Chung et al. 2015 (PMID 26185144) showing hypotonia 6/6 (100%) and encephalopathy 4/4 (100%). Let me search for more cohort data, specifically Yu et al. 2019 with 11 patients.I have enough cohort data. The most authoritative cohort is Chung et al. 2015 (PMID 26185144) which gives exact frequencies. Let me also look at the largest cohort (Laugwitz et al. 2022) for confirmation of cerebral atrophy/cerebellar findings.I have sufficient information. The Chung et al. 2015 paper (PMID 26185144) provides the clearest cohort frequencies with hypotonia 6/6 (100%) and encephalopathy 4/4 (100%, but in patients tested). Now let me compile the hallmark phenotypes ≥80%.
+
+From Chung et al. 2015 (PMID 26185144, n=6):
+- Hypotonia: 6/6 (100%) ✓
+- Encephalopathy with EEG abnormalities: 4/4 (100%) ✓
+- Cerebellar atrophy: 4/5 (80%) ✓
+- Cardiomyopathy: 5/6 (83%) ✓
+- Lactic acidosis: 4/6 (67%) ✗ (below 80%)
+- Neonatal seizures: 3/6 (50%) ✗
+
+HPO terms to validate:
+- Hypotonia: HP:0001252 (Hypotonia)
+- Encephalopathy: HP:0001298
+- Cerebellar atrophy: HP:0001272
+- Cardiomyopathy: HP:0001638
+
+--- PHENOTYPE SUMMARY ---
+HP:0001252 | Hypotonia | 6/6 | PMID:26185144
+HP:0001298 | Encephalopathy | 4/4 | PMID:26185144
+HP:0001272 | Cerebellar atrophy | 4/5 | PMID:26185144
+HP:0001638 | Cardiomyopathy | 5/6 | PMID:26185144
+--- END SUMMARY ---
+
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001252	PMID:26185144	PCS		6/6			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001298	PMID:26185144	PCS		4/4			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001272	PMID:26185144	PCS		4/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001638	PMID:26185144	PCS		5/6			P	LLM:claude-opus-4-7-agentic[2026-05-29]

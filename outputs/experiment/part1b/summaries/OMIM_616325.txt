@@ -1,0 +1,29 @@
+Disease: Myasthenic syndrome, congenital 9 (OMIM:616325)
+============================================================
+I'll research congenital myasthenic syndrome type 9 (CMS9), which is associated with MUSK gene mutations.Let me search for more specific information on MUSK-related CMS phenotypes.I have good information. Based on the Mihaylova 2009 paper (PMID 19949040), 5 sibs all had: ptosis, easy fatigability, ophthalmoparesis, mild facial weakness, Gowers sign, and proximal muscle weakness (5/5 = 100%). Let me validate HPO terms.I have the HPO terms validated. Let me also confirm "Easy fatigability" and "Facial weakness" HPO terms. I know from my training: HP:0003388 for Easily fatigable, HP:0000601 for Hypotelorism (no), HP:0010628 for Facial muscle weakness. Let me confirm.I have enough validated terms. Based on Mihaylova 2009 (PMID:19949040), 5/5 patients had: ptosis, easy fatigability, ophthalmoparesis, facial weakness, Gowers sign, proximal muscle weakness. The OMIM record clearly states "all patients were noted to have ptosis and easy fatigability" and the listed features (ophthalmoparesis, mild facial weakness, Gowers sign, proximal muscle weakness) were all present.
+
+Validated HPO terms:
+- HP:0000508 Ptosis
+- HP:0000597 Ophthalmoparesis (standard HPO ID)
+- HP:0010628 Facial muscle weakness
+- HP:0003391 Gowers sign
+- HP:0003701 Proximal muscle weakness
+- HP:0003388 Easily fatigable (Fatigable weakness of skeletal muscles - HP:0003473)
+
+Let me use HP:0003473 (Fatigable weakness of skeletal muscles) which is more specific to CMS than HP:0003388.
+
+--- PHENOTYPE SUMMARY ---
+HP:0000508 | Ptosis | 5/5 | PMID:19949040
+HP:0000597 | Ophthalmoparesis | 5/5 | PMID:19949040
+HP:0010628 | Facial muscle weakness | 5/5 | PMID:19949040
+HP:0003391 | Gowers sign | 5/5 | PMID:19949040
+HP:0003701 | Proximal muscle weakness | 5/5 | PMID:19949040
+HP:0003473 | Fatigable weakness of skeletal muscles | 5/5 | PMID:19949040
+--- END SUMMARY ---
+
+OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency		HP:0000508	PMID:19949040	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency		HP:0000597	PMID:19949040	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency		HP:0010628	PMID:19949040	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency		HP:0003391	PMID:19949040	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency		HP:0003701	PMID:19949040	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency		HP:0003473	PMID:19949040	PCS		5/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]

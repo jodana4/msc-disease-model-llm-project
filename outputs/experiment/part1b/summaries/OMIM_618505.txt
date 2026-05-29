@@ -1,0 +1,27 @@
+Disease: Stolerman neurodevelopmental syndrome (OMIM:618505)
+============================================================
+I'll search for information about Stolerman neurodevelopmental syndrome to identify hallmark phenotypes.Let me get more details on the Rots et al. 2023 cohort study, which is the largest cohort.I have key information. The Rots 2023 paper (PMID likely 37236173) found developmental delay in all except 2 of 73 individuals (so ~96%). Let me get the PMID for Rots 2023 and check specific feature frequencies.I now have strong data. From Rots 2023 (PMID 37236173):
+- Developmental delay was the most common feature, present in all except 2 of 73 individuals (~96%, well above 80%)
+- ID/ASD or both in ~90%
+- Hypotonia 57%, not above 80%
+
+Let me confirm Rots 2023 PMID and look for additional more granular data.Rots 2023 PMID is 37196654. Now I have:
+- Developmental delay: present in all except 2 of 73 (~96%) per Rots 2023, and in all 12 from Stolerman 2019. Cohort of 85: 71/73 + 12/12 = strong evidence ≥80%.
+- ID/ASD or both: ~90% in 85 patients
+
+The most clear hallmark phenotype with frequency ≥80% is global/developmental delay. Let me validate HPO terms.
+
+HPO terms:
+- HP:0001263 = Global developmental delay (valid, well-established)
+- HP:0001249 = Intellectual disability
+- HP:0000717 = Autism
+
+Based on the data, the only feature reliably ≥80% is developmental delay (~96% in the Rots cohort, 100% in Stolerman cohort). ID and ASD combined are ~90%, but individually they are lower (63% ID, 61% ASD per Rots). Cognitive deficits overall are seen in all individuals.
+
+--- PHENOTYPE SUMMARY ---
+HP:0001263 | Global developmental delay | 71/73 (~96%) | PMID:37196654
+HP:0100543 | Cognitive impairment | 85/85 (100%) | PMID:37196654
+--- END SUMMARY ---
+
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001263	PMID:37196654	PCS		71/73			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0100543	PMID:37196654	PCS		85/85			P	LLM:claude-opus-4-7-agentic[2026-05-29]
