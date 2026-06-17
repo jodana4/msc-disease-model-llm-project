@@ -6,14 +6,12 @@ OMIM:615829	Xia-Gibbs syndrome		HP:0001999	PMID:40501103	PCS		16/16			P	LLM:clau
 OMIM:615829	Xia-Gibbs syndrome		HP:0001263	PMID:40501103	PCS		16/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:615829	Xia-Gibbs syndrome		HP:0000750	PMID:40501103	PCS		15/16			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:615829	Xia-Gibbs syndrome		HP:0000729	PMID:40501103	PCS		13/15			P	LLM:claude-opus-4-7-agentic[2026-05-29]
-```
 OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001399	PMID:32711568	PCS		20/23			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001396	PMID:32711568	PCS		21/23			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001508	PMID:29282788	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001263	PMID:29282788	PCS		91/100			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0001943	PMID:29282788	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)		HP:0003128	PMID:29282788	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
-```
 OMIM:256500	Netherton syndrome		HP:0001019	PMID:11841556	PCS		22/24			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256500	Netherton syndrome		HP:0002870	PMID:11841556	PCS		23/24			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:256500	Netherton syndrome		HP:0003212	PMID:11841556	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
@@ -36,13 +34,9 @@ OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001298	PMID:26185144	PCS		4
 OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001272	PMID:26185144	PCS		4/5			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:616276	Coenzyme Q10 deficiency, primary, 7		HP:0001638	PMID:26185144	PCS		5/6			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0001999	PMID:37075751	PCS		18/18			P	LLM:claude-opus-4-7-agentic[2026-05-29]
-Let me refine — I'll use validated HPO terms with established frequency ≥80%:
-
---- PHENOTYPE SUMMARY ---
-HP:0003774 | Stage 5 chronic kidney disease | Very frequent | PMID:29784615
-HP:0005576 | Tubulointerstitial fibrosis | Obligate | PMID:29784615
-HP:0002149 | Hyperuricemia | 20/23 (87%) | PMID:29784615
-HP:0000007 | Autosomal recessive inheritance — NO, this is AD
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	PMID:29784615	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0005576	PMID:29784615	PCS		HP:0040280			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0002149	PMID:29784615	PCS		20/23			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0012622	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001903	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
 OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000092	PMID:27392076	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]

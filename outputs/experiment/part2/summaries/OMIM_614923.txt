@@ -1,0 +1,84 @@
+Disease: Branched-chain keto acid dehydrogenase kinase deficiency (OMIM:614923)
+============================================================
+RESEARCH FINDINGS:
+The key data is now available from the Tangeraas et al. 2023 study (PMID: 36729635), which is the largest published cohort with 21 patients. Let me now calculate which phenotypes meet the ≥80% threshold and verify if there are any other qualifying cohort studies.I now have comprehensive data from the only qualifying published clinical cohort study (Tangeraas et al., 2023, PMID: 36729635) with ≥10 patients. Let me now carefully calculate the frequencies from the data reported in that paper and identify those meeting the ≥80% threshold.
+
+From Tangeraas et al. (2023), 21 patients were included. The reported phenotypic data were: all patients (21/21) had global neurodevelopmental delay; 18/21 had gross motor function impairment; 16/16 had intellectual disability; 17/17 had language impairment; 12/17 had autism spectrum disorder; 9/21 had epilepsy; 12/15 had clumsiness; 3/21 had sensorineural hearing loss; 4/20 had feeding difficulties; and 17/20 developed acquired microcephaly during follow-up.
+
+Additionally, at diagnosis, BCAA levels (leucine, valine and isoleucine) were below reference values in plasma and in CSF in all patients.
+
+Now applying the ≥80% filter:
+
+| Phenotype | Frequency | % | Meets ≥80%? |
+|---|---|---|---|
+| Global neurodevelopmental delay | 21/21 | 100% | ✅ |
+| Low plasma BCAA levels | 21/21 | 100% | ✅ |
+| Language impairment | 17/17 | 100% | ✅ |
+| Intellectual disability | 16/16 | 100% | ✅ |
+| Gross motor function impairment | 18/21 | 86% | ✅ |
+| Acquired microcephaly | 17/20 | 85% | ✅ |
+| Clumsiness | 12/15 | 80% | ✅ |
+| Autism spectrum disorder | 12/17 | 71% | ❌ |
+| Epilepsy | 9/21 | 43% | ❌ |
+| Feeding difficulties | 4/20 | 20% | ❌ |
+| Sensorineural hearing loss | 3/21 | 14% | ❌ |
+
+---
+
+Here is the final answer based on the published literature search:
+
+---
+
+## BCKDK Deficiency (OMIM: 614923) — Phenotypes Present in ≥80% of Patients
+
+**Source study:** Tangeraas T, et al. *"BCKDK deficiency: a treatable neurodevelopmental disease amenable to newborn screening."* **Brain.** 2023 Jul 3;146(7):3003–3013. **PMID: 36729635**
+
+This is the only published clinical cohort study identified with ≥10 patients (n = 21 patients from 13 families). Twenty-one patients (57% male) from 13 different families were included, with a mean age of diagnosis of 5.8 years.
+
+---
+
+### Phenotypes present in ≥80% of patients:
+
+
+1. **Global neurodevelopmental delay** — 21/21 (100%) — PMID: 36729635
+2. **Language impairment** — 17/17 (100%) — PMID: 36729635
+3. **Intellectual disability** — 16/16 (100%) — PMID: 36729635
+4. **Gross motor function impairment** — 18/21 (86%) — PMID: 36729635
+
+
+
+5. **Reduced plasma BCAA levels (leucine, valine, isoleucine below reference)** — 21/21 (100%) — PMID: 36729635
+
+
+
+6. **Acquired microcephaly** — 17/20 (85%) — PMID: 36729635
+
+
+
+7. **Clumsiness** — 12/15 (80%) — PMID: 36729635
+
+
+---
+
+**Notes:**
+- No other published clinical cohort with ≥10 patients was identified in the literature. The Novarino et al. (2012) study (PMID: 22956686) described only 6 patients and did not meet the minimum threshold.
+- Phenotypes below the 80% threshold in Tangeraas et al. (2023) included: autism spectrum disorder (12/17, 71%), epilepsy (9/21, 43%), feeding difficulties (4/20, 20%), and sensorineural hearing loss (3/21, 14%).
+
+FORMATTED OUTPUT:
+--- PHENOTYPE SUMMARY ---
+HP:0012758 | Neurodevelopmental delay | 21/21 | PMID:36729635
+HP:0002923 | Language delay | 17/17 | PMID:36729635
+HP:0001249 | Intellectual disability | 16/16 | PMID:36729635
+HP:0001270 | Motor delay | 18/21 | PMID:36729635
+HP:0003545 | Decreased plasma branched-chain amino acid concentration | 21/21 | PMID:36729635
+HP:0000486 | Acquired microcephaly | 17/20 | PMID:36729635
+HP:0002312 | Clumsiness | 12/15 | PMID:36729635
+--- END SUMMARY ---
+
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0012758	PMID:36729635	PCS		21/21			P	ORCID:LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0002923	PMID:36729635	PCS		17/17			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0001249	PMID:36729635	PCS		16/16			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0001270	PMID:36729635	PCS		18/21			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0003545	PMID:36729635	PCS		21/21			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0000486	PMID:36729635	PCS		17/20			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	HP:0002312	PMID:36729635	PCS		12/15			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]

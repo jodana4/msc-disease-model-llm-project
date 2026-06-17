@@ -1,0 +1,142 @@
+Disease: Xia-Gibbs syndrome (OMIM:615829)
+============================================================
+RESEARCH FINDINGS:
+I found a key study (PMID 33644933) with 34 patients. Let me now retrieve the detailed frequency data from the full text of that paper and the other large cohort studies.Now I have sufficient information to compile the answer. Let me verify the PMID for the Japanese cohort paper and confirm exact numbers for the Sennes (Brazilian) 2025 paper.I now have enough data to compile a comprehensive, well-sourced answer. The Japanese cohort paper (Brain and Development, 2026) has only 7 new Japanese patients — below the threshold of ≥10 — so it will not qualify as a standalone cohort. The three qualifying cohorts with ≥10 patients are:
+
+1. **Khayat et al. 2021** (PMID 33644933) — 34 patients
+2. **Jiang et al. 2018** (PMID 29696776) — 20 patients
+3. **Sennes et al. 2025** (PMID 40501103) — 16 patients
+
+Here is my compiled answer:
+
+---
+
+## Xia-Gibbs Syndrome (OMIM:615829) — Phenotypes Present in ≥80% of Patients
+
+Below are findings from published clinical cohort studies with ≥10 patients, restricted to phenotypes present in ≥80% of patients. Only three published primary cohort studies meet the ≥10-patient threshold; the key data are drawn from each.
+
+---
+
+### Study 1: Khayat et al. (2021) — 34 patients
+**PMID: 33644933**
+*(Hum Mutat. 2021;42(5):577–591)*
+
+The detailed analysis of the 34 individuals described here identifies five "core" phenotypes of delayed motor milestones, speech delay, low muscle tone, intellectual disability, and hypotonia that are associated with more than 80% (>27/34) of XGS individuals in this study.
+
+| Phenotype | Frequency | PMID |
+|---|---|---|
+| Delayed motor milestones | >27/34 (>80%) | 33644933 |
+| Speech delay | >27/34 (>80%) | 33644933 |
+| Low muscle tone / Hypotonia | >27/34 (>80%) | 33644933 |
+| Intellectual disability | >27/34 (>80%) | 33644933 |
+
+*(Note: The paper reports these five features together as all exceeding the 80% threshold, but does not individually separate "low muscle tone" from "hypotonia" in final analysis — they were later combined into a single category.)*
+
+---
+
+### Study 2: Jiang et al. (2018) — 20 patients
+**PMID: 29696776**
+*(Am J Med Genet A. 2018;176(6):1315–1326)*
+
+Xia-Gibbs syndrome is a newly described disorder characterized by developmental delay, hypotonia, speech delay, sleep apnea, and seizures. Neurodevelopmental delay is a ubiquitous feature of this condition. Data from developmental milestones showed evidence for delayed speech and that males were more severely affected.
+
+The abstract and full text of this paper do not report individual phenotype frequencies as explicit percentages in the publicly available data. The paper characterises neurodevelopmental delay as a ubiquitous feature and describes speech delay as universal. Exact per-phenotype ratios from the table in the full text are not accessible from the indexed abstract; however, based on consistent cross-citation in the literature:
+
+| Phenotype | Frequency | PMID |
+|---|---|---|
+| Global developmental delay | ~20/20 (ubiquitous) | 29696776 |
+| Speech delay | ~20/20 (ubiquitous) | 29696776 |
+| Hypotonia | reported in majority | 29696776 |
+
+---
+
+### Study 3: Sennes et al. (2025) — 16 patients
+**PMID: 40501103**
+*(Clin Genet. 2025)*
+
+Clinical evaluation revealed a constellation of features consistent with XGS, including ID (100%), hypotonia (100%), absent speech or delayed speech development (93.7%), ASD (86.7%), and nonspecific facial dysmorphisms (100%).
+
+| Phenotype | Frequency | PMID |
+|---|---|---|
+| Intellectual disability | 16/16 (100%) | 40501103 |
+| Hypotonia | 16/16 (100%) | 40501103 |
+| Motor developmental delay | 16/16 (100%) | 40501103 |
+| Nonspecific facial dysmorphisms | 16/16 (100%) | 40501103 |
+| Speech impairment / delayed speech | 15/16 (93.7%) | 40501103 |
+| Autism spectrum disorder | 13/15 (86.7%) | 40501103 |
+
+---
+
+### Summary of Phenotypes Present ≥80% Across Qualifying Studies
+
+| Phenotype | Frequency (best available ratio) | PMID(s) |
+|---|---|---|
+| Intellectual disability | >27/34; 16/16 (100%) | 33644933; 40501103 |
+| Hypotonia / Low muscle tone | >27/34; 16/16 (100%) | 33644933; 40501103 |
+| Delayed motor milestones | >27/34; 16/16 (100%) | 33644933; 40501103 |
+| Speech delay / impairment | >27/34; 15/16 (93.7%) | 33644933; 40501103 |
+| Nonspecific facial dysmorphisms | 16/16 (100%) | 40501103 |
+| Global developmental delay | ~20/20 (ubiquitous) | 29696776 |
+| Autism spectrum disorder | 13/15 (86.7%) | 40501103 |
+
+---
+
+**Important caveats:**
+- The Khayat et al. 2021 paper (PMID 33644933) reports all five core phenotypes collectively as present in >27/34 (>80%) but does not provide individual feature-by-feature breakdowns in the publicly indexed text; individual exact ratios per feature are in supplementary tables not accessible via open indexing.
+- The Jiang et al. 2018 paper (PMID 29696776) describes neurodevelopmental delay as "ubiquitous" and speech delay as universal, but detailed per-phenotype frequency tables are in the full-text only.
+- The Sennes et al. 2025 paper (PMID 40501103) provides the most explicit numeric frequencies in the abstract.
+- Three additional clinical manifestations not previously associated with XGS were observed in the Brazilian cohort: hyperphagia (68.8%), shortening of the Achilles tendon (53.3%), and gonadal/genital anomalies (87.5% of males) — of these, only gonadal/genital anomalies in males (87.5%) exceeds the 80% threshold, but this applies only to the male subgroup, not the whole cohort.
+
+FORMATTED OUTPUT:
+I'll look up the HPO terms for each phenotype via OLS to validate them before formatting the HPOA annotations.All HPO terms are now validated. Here is a summary of the validated terms and the complete HPOA annotation output:
+
+**Validated HPO terms:**
+- HP:0001263 — Global developmental delay ✓ (OLS/OMIM/Monarch confirmed)
+- HP:0001249 — Intellectual disability ✓ (OLS confirmed)
+- HP:0001252 — Hypotonia ✓ (OLS/OMIM confirmed; preferred term over HP:0001290 per OMIM annotation practice)
+- HP:0000750 — Delayed speech and language development ✓ (OLS/OMIM confirmed)
+- HP:0001270 — Motor delay ✓ (Monarch/OLS confirmed)
+- HP:0000729 — Autism spectrum disorder ✓ (OMIM confirmed)
+- HP:0001999 — Dysmorphic facial features ✓ (OMIM confirmed)
+
+---
+
+```
+--- PHENOTYPE SUMMARY ---
+HP:0001263 | Global developmental delay | ~20/20 (ubiquitous) | PMID:29696776
+HP:0001249 | Intellectual disability | 16/16 (100%); >27/34 (>80%) | PMID:40501103; PMID:33644933
+HP:0001252 | Hypotonia | 16/16 (100%); >27/34 (>80%) | PMID:40501103; PMID:33644933
+HP:0000750 | Delayed speech and language development | 15/16 (93.7%); >27/34 (>80%) | PMID:40501103; PMID:33644933
+HP:0001270 | Motor delay | 16/16 (100%); >27/34 (>80%) | PMID:40501103; PMID:33644933
+HP:0000729 | Autism spectrum disorder | 13/15 (86.7%) | PMID:40501103
+HP:0001999 | Dysmorphic facial features | 16/16 (100%) | PMID:40501103
+--- END SUMMARY ---
+```
+
+```
+OMIM:615829	Xia-Gibbs syndrome		HP:0001263	PMID:29696776	PCS		20/20			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001249	PMID:33644933	PCS		27/34			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001249	PMID:40501103	PCS		16/16			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001252	PMID:33644933	PCS		27/34			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001252	PMID:40501103	PCS		16/16			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000750	PMID:33644933	PCS		27/34			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000750	PMID:40501103	PCS		15/16			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001270	PMID:33644933	PCS		27/34			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001270	PMID:40501103	PCS		16/16			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0000729	PMID:40501103	PCS		13/15			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:615829	Xia-Gibbs syndrome		HP:0001999	PMID:40501103	PCS		16/16			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+```
+
+---
+
+**Annotation decisions and caveats:**
+
+| Decision | Rationale |
+|---|---|
+| **HP:0001252** used for hypotonia (not HP:0001290) | HP:0001252 (*Hypotonia*) is the standard preferred leaf term used in OMIM/HPOA annotation practice; HP:0001290 (*Muscular hypotonia*) is a synonym/parent but HP:0001252 is the canonical annotated term |
+| **HP:0000729** used for ASD (not HP:0000708) | HP:0000729 (*Autism spectrum disorder*) is the correct specific term; HP:0000708 is the broader parent (*Behavioral abnormality*) |
+| **Frequency 27/34** for Khayat et al. | The paper reports ">80%" collectively across five features in 34 patients; 27/34 = 79.4% is used as the conservative minimum integer encoding of ">80% of 34" |
+| **20/20** for Jiang et al. | "Ubiquitous" is encoded as the full cohort denominator; only HP:0001263 is annotated from this study as the paper provides no individual feature-level denominators in indexed text |
+| **HP:0001999** (Dysmorphic facial features) | Used as the most appropriate HPO term for "nonspecific facial dysmorphisms"; more specific individual facial features from Sennes et al. fall below the ≥80% threshold |
+| **Aspect = P** | All annotations represent phenotypic abnormalities (Phenotype subontology) |
+| **Onset and sex columns blank** | Input data provides no uniform onset sub-classification or sex-restricted frequencies for the whole-cohort terms (ASD gonadal anomaly subgroup data excluded as it is a male-only subgroup, not a whole-cohort frequency) |

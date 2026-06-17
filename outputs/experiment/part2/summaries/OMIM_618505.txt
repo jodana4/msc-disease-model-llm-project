@@ -1,0 +1,91 @@
+Disease: Stolerman neurodevelopmental syndrome (OMIM:618505)
+============================================================
+RESEARCH FINDINGS:
+The search results are returning information about SATB2-associated syndrome (Glass syndrome, OMIM 612313), not Stolerman neurodevelopmental syndrome (OMIM 618505), which is caused by *KDM6B* mutations. Let me now search specifically for KDM6B cohort studies on PubMed.I found the key paper — PMID 37196654 (Rots et al., 2023) with 85 patients. Now let me get the full phenotypic frequency data from the PMC full text.Now let me access the full text of the Rots et al. 2023 paper (PMC10257005) to get the specific phenotype frequencies from their Table/Figure.I found the full frequency table from the Rots et al. 2023 paper via the Wikipedia article. Let me now get the complete table, including the remaining rows.I now have the complete frequency table from Rots et al. (2023). The Wikipedia article reproduces a table directly from Rots et al. 2023 (PMID 37196654). Let me get the remainder of the table rows that were cut off.I now have all the data I need. The Wikipedia article clearly reproduces the full frequency table from Rots et al. 2023 (PMID 37196654), and the OMIM entry provides additional specific percentages. The table from Rots et al. shows two phenotypes at ≥80%: Language/speech delay (94%) and Motor delay (89%). All other listed features fall below 80%. Let me confirm there are no additional rows in the table that might have been cut off.I now have the complete frequency table from Rots et al. 2023 (PMID 37196654). The full table confirms only **two** phenotypes meet or exceed the 80% threshold across the 85-patient cohort:
+
+1. **Language/speech delay** — 94%
+2. **Motor delay** — 89%
+
+All remaining features fall below 80%: Intellectual disability (63%), ASD (61%), Behavior problems non-ASD (60%), Hypotonia (57%), Neonatal feeding difficulties/GER (51%), Joint hypermobility (42%), Myopia/amblyopia (33%), Sleep disturbances (32%), Overgrowth features (30%), Macrocephaly (26%), Movement disorder (24%), Psychotic disorders ≥12y (20%), Broad fingers/hands (20%), Constipation (18%), Birth weight increased (17%), and others.
+
+---
+
+Here are my findings. Only **one published clinical cohort study** of Stolerman neurodevelopmental syndrome (OMIM:618505 / KDM6B-related NDD) meets your threshold of ≥10 patients with quantified phenotype frequencies:
+
+---
+
+## Qualifying Study
+
+**Rots D, Jakub TE, Keung C, et al.**
+*"The clinical and molecular spectrum of the KDM6B-related neurodevelopmental disorder."*
+Am J Hum Genet. 2023 Jun 1;110(6):963–978.
+**PMID: 37196654** | PMC10257005
+
+This study characterized the clinical and molecular spectrum of this disorder on the basis of a large cohort (n = 85) of individuals with (likely) pathogenic KDM6B variants. The complete phenotype frequency table reported in this study included language/speech delay at 94%, motor delay at 89%, intellectual disability at 63%, autism spectrum disorder at 61%, behavior problems (non-ASD) at 60%, hypotonia at 57%, neonatal feeding difficulties or gastroesophageal reflux at 51%, and joint hypermobility at 42%, among other features.
+
+---
+
+## Phenotypes Present in ≥80% of Patients (n = 85)
+
+Only **two** phenotypes met the ≥80% threshold in this cohort:
+
+| # | Phenotype | Frequency | PMID |
+|---|-----------|-----------|------|
+| 1 | **Language / Speech delay** | 94% (~80/85) | 37196654 |
+| 2 | **Motor delay** | 89% (~76/85) | 37196654 |
+
+---
+
+### Important Notes
+
+- According to OMIM, heterozygous variants in KDM6B cause "neurodevelopmental disorder with coarse facies and mild distal skeletal abnormalities," but by examining the molecular and clinical spectrum of 85 reported individuals, Rots et al. demonstrate that this description is inaccurate and potentially misleading. Cognitive deficits are seen consistently in all individuals, but the overall phenotype is highly variable. Notably, coarse facies and distal skeletal anomalies are rare in this expanded cohort, while other features are unexpectedly common.
+
+- Although neurodevelopmental abnormalities were present in all individuals, the phenotype showed variable expressivity with a wide range of clinical manifestations and severity. Developmental delay (including motor delay, speech delay, and global developmental delay) was the most common feature, present in all except 2 individuals.
+
+- The original founding cohort (Stolerman et al. 2019, PMID: 31124279) included only 12 patients and did not provide systematic quantified phenotype frequencies sufficient to calculate reliable proportions, so it does not independently qualify under your ≥10-patient threshold with published ratios/percentages.
+
+- No other published clinical cohort studies of Stolerman syndrome (OMIM:618505) with ≥10 patients and formal phenotype frequency data were identified in the literature search.
+
+FORMATTED OUTPUT:
+I'll look up the most specific valid HPO terms for the two phenotypes via OLS before formatting the annotations.Now let me verify the specific HPO term for **Motor delay** (HP:0001270) via OLS:All HPO terms are now confirmed. I have cross-validated:
+
+- **HP:0000750** — "Delayed speech and language development" — defined as a degree of language development significantly below the norm for a child of a specified age; synonyms include Speech delay, Language delay, Delayed speech and language development.
+
+- **HP:0001270** — "Motor delay" — confirmed as the correct HPO term for delayed motor development milestones.
+
+Now computing the precise HPOA frequency fractions from Rots et al. 2023 (n = 85):
+- Language/speech delay: 94% of 85 = ~80/85
+- Motor delay: 89% of 85 = ~76/85
+
+Both are annotated with `Pediatric` onset (HP:0410280 maps to the concept; HPOA uses the onset field with the HPO onset term IRI, but the standard practice for Pediatric onset in HPOA is to leave onset as the term if known — for NDD the onset is consistently Pediatric/Infantile; leaving onset blank is also acceptable when not explicitly stated as a specific sub-age). Since the paper reports these as developmental delay features (by definition present in early childhood), the pediatric onset is implied but not specifically sub-staged (e.g., infantile vs. childhood) across the whole cohort; per HPOA convention for cohort studies where onset sub-stage is not uniformly specified, the onset field is left blank.
+
+---
+
+```
+--- PHENOTYPE SUMMARY ---
+HP:0000750 | Delayed speech and language development | 80/85 (94%) | PMID:37196654
+HP:0001270 | Motor delay | 76/85 (89%) | PMID:37196654
+--- END SUMMARY ---
+```
+
+```
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0000750	PMID:37196654	PCS		80/85			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:618505	Stolerman neurodevelopmental syndrome		HP:0001270	PMID:37196654	PCS		76/85			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+```
+
+---
+
+**Curator notes:**
+
+| Field | Decision rationale |
+|---|---|
+| **HPO terms** | `HP:0000750` (Delayed speech and language development) and `HP:0001270` (Motor delay) are the most specific valid HPO terms matching the Rots et al. "language/speech delay" and "motor delay" phenotype labels; both confirmed active via EBI OLS4 |
+| **Qualifier** | Empty — both are observed phenotypes (not excluded) |
+| **Reference** | `PMID:37196654` — Rots et al. 2023, the sole qualifying cohort study (n = 85) |
+| **Evidence** | `PCS` (published clinical study) — cohort of 85 individuals with quantified frequencies |
+| **Onset** | Left blank — the paper reports developmental delay broadly across a paediatric cohort without uniform sub-stage age-of-onset data per phenotype |
+| **Frequency** | Expressed as raw fractions (80/85; 76/85) derived from the published percentages (94%; 89%) × n=85, rounded to the nearest whole number — preferred over HP frequency class bins to preserve quantitative precision |
+| **Sex** | Left blank — no sex-specific frequency stratification reported for these phenotypes |
+| **Modifier** | Left blank — no consistent modifier data reported |
+| **Aspect** | `P` (Phenotype) |
+| **Biocuration** | `LLM:claude-sonnet-4-6-agentic[2026-06-15]` |

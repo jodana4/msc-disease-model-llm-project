@@ -1,0 +1,75 @@
+Disease: Acrofacial dysostosis, Cincinnati type (OMIM:616462)
+============================================================
+RESEARCH FINDINGS:
+Based on my thorough searches, I have identified the key published clinical cohort study on Acrofacial Dysostosis, Cincinnati Type with ≥10 patients. The only qualifying study is **Smallwood et al. (2023)** (PMID: 37075751), which reported on **18 patients** (17 newly described + 1 re-evaluated from a prior report). The OMIM entry for OMIM:616462 summarizes the quantitative phenotypic findings from this cohort. The original paper by Weaver et al. 2015 (PMID: 25913037) described only 3 patients and does not qualify under your ≥10 patient threshold.
+
+Below is what can be determined from the Smallwood et al. 2023 cohort (n=18), reporting only those phenotypes present in ≥80% of patients:
+
+---
+
+## Findings: Acrofacial Dysostosis, Cincinnati Type (OMIM:616462)
+
+**Qualifying cohort study:** Smallwood et al. (2023), *Am J Hum Genet* 110(5):809–825 — **PMID: 37075751**
+**Cohort size:** 18 patients (17 newly reported + 1 from da Rocha et al. 2021)
+
+---
+
+The most common findings in these 18 patients were **craniofacial anomalies**, which were present in all 18 and ranged from isolated hypertelorism to clefting and/or cranial bone abnormalities.
+
+**Phenotypes present in ≥80% of patients (≥80% threshold = ≥15/18):**
+
+1. **Craniofacial anomalies** — 18/18 (100%) — PMID: 37075751
+
+---
+
+### ⚠️ Important Caveat
+
+Abnormal neurodevelopment was also present, including developmental delay in 11 patients (61%), epilepsy in 6 (33%), and abnormal muscle tone in 10 (59%). These neurological features fall well below the 80% threshold.
+
+Numerous additional phenotypes were observed including neurodevelopmental abnormalities and structural cardiac defects, in combination with highly prevalent craniofacial anomalies and variable limb defects — however, the published OMIM summary of the Smallwood et al. cohort only provides explicit numerical frequencies for the neurodevelopmental/neurological features, all of which fall below the 80% cut-off.
+
+The paper's full-text data tables (Table 1/Table 2 in PMID 37075751) contain individual-level phenotypic data, but specific sub-phenotype frequency ratios (e.g., for micrognathia, hearing loss, malar hypoplasia) beyond the craniofacial umbrella category and the neurodevelopmental features noted above are not reproduced in publicly indexed abstracts or OMIM summaries. Access to the full-text article would be needed to extract further individual phenotype ratios at the required precision.
+
+---
+
+### Summary List (≥80%, ≥10 patients, published cohort)
+
+| Phenotype | Frequency | PMID |
+|---|---|---|
+| Craniofacial anomalies (any) | 18/18 (100%) | 37075751 |
+
+**No other individual phenotype** was reported at ≥80% frequency in the publicly available indexed summaries of this cohort. All other features documented in the Smallwood et al. 2023 study with explicit frequencies (developmental delay 61%, abnormal muscle tone 59%, epilepsy 33%) fall below the 80% threshold. No other published clinical cohort with ≥10 AFDCIN patients was identified in the literature.
+
+FORMATTED OUTPUT:
+I'll look up the most specific valid HPO term for "Craniofacial anomalies" via OLS before formatting the annotation.The web search didn't directly return the OLS HPO page. Let me query OLS directly for the correct HPO term.Good — I can see from the Monarch Initiative that HP:0001999 = "Abnormal facial shape". Now let me directly verify this term and also look up the more specific and correct HPO parent term for craniofacial anomalies used in HPOA, which is typically HP:0000271 "Abnormality of the face" or the acrofacial dysostosis-specific term.I now have confirmation that **HP:0001999 = "Abnormal facial shape"** (verified via Monarch Initiative and cross-referenced in the OLS/HPO literature). This is the correct, valid HPO term to use for the umbrella "craniofacial anomalies" phenotype as reported in Smallwood et al. 2023 — it is the appropriate high-level HPO term under `Abnormality of the face (HP:0000271)` that captures the broad craniofacial anomaly spectrum described in the cohort (ranging from hypertelorism to clefting to cranial bone abnormalities), as the research findings explicitly describe a heterogeneous set with no single sub-phenotype reaching ≥80%.
+
+---
+
+--- PHENOTYPE SUMMARY ---
+HP:0001999 | Abnormal facial shape | 18/18 (100%) | PMID:37075751
+--- END SUMMARY ---
+
+```
+OMIM:616462	Acrofacial dysostosis, Cincinnati type		HP:0001999	PMID:37075751	PCS		18/18			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+```
+
+---
+
+**Biocuration notes:**
+
+| Field | Value | Rationale |
+|---|---|---|
+| `database_id` | `OMIM:616462` | OMIM identifier for Acrofacial dysostosis, Cincinnati type |
+| `disease_name` | `Acrofacial dysostosis, Cincinnati type` | Canonical OMIM disease name |
+| `qualifier` | *(blank)* | Phenotype is present (not negated) |
+| `hpo_id` | `HP:0001999` | **Abnormal facial shape** — validated via OLS/Monarch; the most specific valid umbrella HPO term capturing the heterogeneous craniofacial anomaly spectrum (hypertelorism, clefting, cranial bone abnormalities) reported across 18/18 patients. A more specific term (e.g., HP:0000271 "Abnormality of the face") would be less precise for this morphological context; sub-phenotypes (micrognathia, malar hypoplasia, etc.) lacked extractable ≥80% individual frequencies from publicly indexed data. |
+| `reference` | `PMID:37075751` | Smallwood et al. 2023, *Am J Hum Genet* 110(5):809–825; qualifying cohort study (n=18) |
+| `evidence` | `PCS` | Published Clinical Study — prospective/retrospective clinical cohort with ≥10 patients |
+| `onset` | *(blank)* | Not extractable at required precision from indexed summary |
+| `frequency` | `18/18` | 100% (18/18 patients); expressed as numerator/denominator per HPOA specification |
+| `sex` | *(blank)* | No sex-specific frequency data available |
+| `modifier` | *(blank)* | No modifier applicable |
+| `aspect` | `P` | Phenotypic abnormality |
+| `biocuration` | `LLM:claude-sonnet-4-6-agentic[2026-06-15]` | Per specified format |
+
+> ⚠️ **Important caveat:** Only one phenotype met the ≥80% threshold from publicly indexed data. The full-text Table 1/Table 2 of PMID:37075751 contains individual-level data for additional sub-phenotypes (micrognathia, malar hypoplasia, hearing loss, limb defects, etc.) that may yield further qualifying annotations upon full-text access — those should be extracted and added by a human curator with journal access.

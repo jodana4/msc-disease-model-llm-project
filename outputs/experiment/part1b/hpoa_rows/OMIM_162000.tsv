@@ -1,7 +1,3 @@
-Let me refine — I'll use validated HPO terms with established frequency ≥80%:
-
---- PHENOTYPE SUMMARY ---
-HP:0003774 | Stage 5 chronic kidney disease | Very frequent | PMID:29784615
-HP:0005576 | Tubulointerstitial fibrosis | Obligate | PMID:29784615
-HP:0002149 | Hyperuricemia | 20/23 (87%) | PMID:29784615
-HP:0000007 | Autosomal recessive inheritance — NO, this is AD
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0003774	PMID:29784615	PCS		HP:0040281			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0005576	PMID:29784615	PCS		HP:0040280			P	LLM:claude-opus-4-7-agentic[2026-05-29]
+OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant 1		HP:0002149	PMID:29784615	PCS		20/23			P	LLM:claude-opus-4-7-agentic[2026-05-29]

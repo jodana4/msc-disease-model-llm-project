@@ -1,0 +1,60 @@
+Disease: Hypotonia, infantile, with psychomotor retardation and characteristic facies 3 (OMIM:616900)
+============================================================
+RESEARCH FINDINGS:
+I now have sufficient data to answer the question. The key study that qualifies — being a clinical cohort study of IHPRF3/TBCK-related disorder with ≥10 patients and explicit frequency data — is the **Zapata-Aldana et al. 2019** paper (PMID: 30103036), which reviewed 33 previously reported cases plus 2 new patients (n=35 total), and is the study cited as the **"largest worldwide case series to date"** by subsequent publications (Sabanathan et al. 2023, PMID: 36522252). The explicit phenotype frequencies reported from this series (n=32–33 patients) are also confirmed and cited in Sabanathan et al. 2023. The **Bhoj et al. 2016** paper (PMID: 27040691) reported 13 patients and is the other qualifying cohort study (≥10 patients).
+
+Let me also check the Durham et al. 2023 (PMID: 37455236) review paper for any additional quantified ≥80% phenotype data from the 69 documented patients.I now have the data needed to compile a thorough, evidence-based answer. Here is a synthesis of the findings:
+
+**Key qualifying study** with explicit phenotype frequencies from a cohort of ≥10 IHPRF3/TBCK patients:
+
+- **Zapata-Aldana et al. 2019 (PMID: 30103036)** — reviewed the then-largest worldwide cohort of 33–35 IHPRF3 patients and provided explicit frequency data.
+- **Bhoj et al. 2016 (PMID: 27040691)** — reported 13 patients from 9 unrelated families with phenotype data.
+- **Durham et al. 2023 (PMID: 37455236)** — a literature review/perspective summarising phenotypes across 69 documented patients.
+
+From the Sabanathan et al. 2023 (PMID: 36522252) review, which explicitly cites and quotes the Zapata-Aldana 2019 series as the "largest worldwide case series to date," the frequencies ≥80% from that n=32–33 cohort are: **profound global developmental delay (100%, 32/32)** and **severe hypotonia (88%, 29/33)**. The Durham et al. 2023 review (69 patients) presents data in Figure 2 but does not provide clean ≥80% thresholds beyond these same core features — in fact, their data show motor developmental delay in 38/69 (~55%) and other features well below 80%.
+
+---
+
+Here is the answer, with citations:
+
+---
+
+## IHPRF3 (OMIM: 616900) — Phenotypes Present in ≥80% of Patients
+
+Based on a thorough search of PubMed-indexed clinical cohort studies of IHPRF3 (TBCK-related disorder), the study meeting the criterion of ≥10 patients **with explicit per-phenotype frequency data** is:
+
+**Zapata-Aldana et al. (2019)** — a systematic review and delineation of IHPRF3 covering the then-largest worldwide cohort of 33–35 patients. This paper reviewed 33 previously reported cases plus 2 new patients and was identified as the largest worldwide case series to date for TBCK-related disorders, providing the main clinical and radiological features with explicit frequencies.
+
+The explicit phenotype frequencies from this series are reported in Sabanathan et al. 2023 (PMID: 36522252) citing Zapata-Aldana 2019 (PMID: 30103036) as the source cohort:
+
+The largest worldwide case series identified: profound global developmental delay (100%, n=32/32) and severe hypotonia (88%, n=29/33) as the two features meeting the ≥80% threshold. More than 80% of published cases presented with severe hypotonia, which was frequently neonatal in onset.
+
+---
+
+### Phenotypes Present in ≥80% of Patients (IHPRF3 / OMIM: 616900)
+
+| # | Phenotype | Frequency | PMID |
+|---|-----------|-----------|------|
+| 1 | Profound global developmental delay | 100% (32/32) | 30103036 |
+| 2 | Severe hypotonia | 88% (29/33) | 30103036 |
+
+---
+
+### Important Notes and Caveats:
+
+1. **Only two phenotypes meet the ≥80% threshold** in the qualifying cohort (Zapata-Aldana et al. 2019, PMID: 30103036, n=33–35). Other features reported in that series — seizures (69%, 22/32), bitemporal narrowing (38%, 12/32), and abnormal white matter on brain MRI (41%, 12/29) — fall below the 80% threshold.
+
+2. Bhoj et al. 2016 (PMID: 27040691), identifying 13 patients from 9 unrelated families, found that "all affected individuals were found to share a core phenotype of intellectual disability and hypotonia," consistent with 100% frequency for these two features, but did not provide formal per-phenotype frequency denominators for other features.
+
+3. Durham et al. 2023 (PMID: 37455236), a review across 69 documented TBCK syndrome patients, reported neurologic phenotypes including motor developmental delay and reflexia abnormalities, and noted that MRI commonly indicated abnormal white matter and ventricular abnormalities — but the raw counts (e.g., areflexia in 18/69, reduced reflexes in 19/69, motor delay in 38/69) again do not reach the ≥80% threshold.
+
+4. Across all published IHPRF3 cases, severe hypotonia is the only additional feature consistently present in >80% of patients beyond global developmental delay.
+
+FORMATTED OUTPUT:
+--- PHENOTYPE SUMMARY ---
+HP:0001263 | Global developmental delay | 32/32 | 30103036
+HP:0001290 | Generalized hypotonia | 29/33 | 30103036
+--- END SUMMARY ---
+
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001263	PMID:30103036	PCS		32/32			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3		HP:0001290	PMID:30103036	PCS		29/33			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]

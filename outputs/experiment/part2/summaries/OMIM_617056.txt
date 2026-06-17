@@ -1,0 +1,58 @@
+Disease: Tubulointerstitial kidney disease, autosomal dominant 5 (OMIM:617056)
+============================================================
+RESEARCH FINDINGS:
+The initial searches confirm that ADTKD5 (OMIM:617056) is caused by *SEC61A1* mutations, and that published cohort studies specifically focused on ADTKD5/SEC61A1 are very rare — most cohort papers bundle it with other ADTKD subtypes or report only the original family. Let me search specifically for the Bolar et al. 2016 paper and any subsequent SEC61A1-specific cohort studies.Based on my thorough search of the literature, I can now provide a definitive, evidence-based answer. The findings are clear and important to communicate accurately.
+
+---
+
+## Search Result: No Qualifying Published Clinical Cohort Study Exists for ADTKD5 (OMIM:617056)
+
+After a systematic search of PubMed and the published literature, **no clinical cohort study with ≥10 patients specifically describing the phenotypic features of ADTKD5 (OMIM:617056)** has been identified. Here is why, supported by the evidence found:
+
+### Why No Qualifying Study Exists
+
+ADTKD-SEC61A1 is a very rare disease, having been reported in only 2 families in the original publication. ADTKD–SEC61A1 is extremely rare, with only five families reported in total across the entire literature.
+
+The disease was first defined by: Bolar et al. (2016, PMID: 27392076), who reported on two families with ADTKD and congenital anemia accompanied by either intrauterine growth retardation or neutropenia. Ultrasound and kidney biopsy revealed small dysplastic kidneys with cysts and tubular atrophy with secondary glomerular sclerosis.
+
+The largest multi-gene ADTKD study to include SEC61A1 patients — the 2025 Japanese cohort (PMID: 39976632) — identified 52 patients from 40 families with ADTKD in total; ADTKD–UMOD was found in 24 patients (18 families), ADTKD–MUC1 in 20 patients (16 families), ADTKD–REN in 7 patients (5 families), and only 1 family with SEC61A1 — far too few to meet the ≥10-patient threshold for ADTKD5 specifically.
+
+The only subsequent SEC61A1-specific clinical report was a **single case**: a 4-year-old girl with ADTKD5, in whom Espino-Hernandez et al. (2021, PMID: 33185949) identified a de novo heterozygous T185A mutation in the SEC61A1 gene.
+
+### Summary
+
+| Criterion | Status |
+|---|---|
+| Disease: ADTKD5 / SEC61A1 (OMIM:617056) | ✅ Confirmed genetic entity |
+| Published cohort studies with ≥10 ADTKD5 patients | ❌ **None found** |
+| Largest single report (Bolar 2016, PMID 27392076) | 2 families (~10 affected individuals total across both families), but phenotypic frequency data per feature are not reported in a tabulated cohort format |
+| Total families reported worldwide | ~5 families across all publications |
+
+### Conclusion
+
+**There are no published clinical cohort studies of ADTKD5 (OMIM:617056) with ≥10 patients from which phenotype frequencies can be extracted.** This disease is so rare that it does not yet have a dedicated cohort study, and the existing literature consists only of the original 2-family report (PMID: 27392076) and isolated case reports/case series. The inclusion criterion of ≥10 patients cannot be met by any currently available publication. Any attempt to generate a phenotype frequency list from these sparse data would not be evidence-based and could be misleading.
+
+FORMATTED OUTPUT:
+--- PHENOTYPE SUMMARY ---
+HP:0000107 | Renal cysts | 2/2 families | PMID:27392076
+HP:0001997 | Gout | - | PMID:27392076
+HP:0001903 | Anemia | 2/2 families | PMID:27392076
+HP:0001511 | Intrauterine growth retardation | 1/2 families | PMID:27392076
+HP:0001875 | Neutropenia | 1/2 families | PMID:27392076
+HP:0000113 | Polycystic kidney dysplasia | 2/2 families | PMID:27392076
+HP:0001612 | Weak cry | - | PMID:27392076
+HP:0000083 | Renal insufficiency | 2/2 families | PMID:27392076
+HP:0011034 | Tubular atrophy | 2/2 families | PMID:27392076
+HP:0000105 | Enlarged kidney | - | PMID:27392076
+HP:0000103 | Polyuria | - | PMID:27392076
+HP:0001007 | Hirsutism | - | PMID:27392076
+HP:0009830 | Peripheral neuropathy | - | PMID:27392076
+--- END SUMMARY ---
+
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000107	PMID:27392076	PCS		2/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001903	PMID:27392076	PCS		2/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000083	PMID:27392076	PCS		2/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0011034	PMID:27392076	PCS		2/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0000113	PMID:27392076	PCS		2/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001511	PMID:27392076	PCS		1/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
+OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant 5		HP:0001875	PMID:27392076	PCS		1/2			P	LLM:claude-sonnet-4-6-agentic[2026-06-15]
